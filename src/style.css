@@ -101,3 +101,11 @@ a{color:inherit}
 @media(max-width:560px){.speech{top:20px;bottom:auto;left:auto;right:3%;max-width:150px}}
 @media(max-width:560px){.speech{top:80px}}
 .nav-legend{flex-wrap:wrap}.nav-legend .legend-partial{background:#efc28f}
+.voice-player{margin:18px 0;padding:14px 16px;border:1px solid #eaddec;border-radius:14px;background:#fcf8fc;color:#66536c}
+.voice-heading{display:flex;align-items:center;gap:8px;font-size:12px;color:#78578a}
+.voice-heading strong{font-size:13px}.voice-heading span:last-child{margin-left:auto;color:#9a8a9d;font-size:11px}
+.voice-player audio{display:block;width:100%;height:40px;margin-top:9px}
+.voice-settings{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-top:4px;font-size:12px}
+.voice-rewind{min-height:34px;padding:0 8px;font-size:12px}
+.voice-settings label{display:flex;align-items:center;gap:8px}.voice-settings select{border:1px solid #e5d8e8;border-radius:7px;background:white;color:#624d69;padding:5px 8px;font:inherit}
+.voice-error{margin:8px 0 0;color:#a94153;font-size:12px;line-height:1.6}

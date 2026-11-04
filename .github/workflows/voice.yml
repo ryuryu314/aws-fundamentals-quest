@@ -1,0 +1,38 @@
+name: Generate voice assets
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  record:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    strategy:
+      fail-fast: false
+      matrix:
+        shard: [0, 1, 2, 3, 4, 5, 6, 7]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - name: Start official VOICEVOX engine
+        run: |
+          docker run -d --name voicevox -p 127.0.0.1:50021:50021 voicevox/voicevox_engine:cpu-0.26.0
+          for attempt in $(seq 1 120); do
+            if curl -fsS http://127.0.0.1:50021/version; then break; fi
+            sleep 2
+          done
+          curl -fsS http://127.0.0.1:50021/version
+      - name: Install audio encoder
+        run: sudo apt-get update -qq && sudo apt-get install -y ffmpeg
+      - name: Record assigned questions
+        env:
+          VOICE_SHARD: ${{ matrix.shard }}
+          VOICE_SHARDS: 8
+        run: node scripts/generate-voice.mjs
+      - uses: actions/upload-artifact@v4
+        with:
+          name: voice-${{ matrix.shard }}
+          path: public/voice
+          retention-days: 7
