@@ -1,6 +1,4 @@
 import { useEffect, useRef, useState } from 'react'
-import voiceManifest from '../../public/voice/manifest.json'
-const voiceFiles = voiceManifest.files as Record<string, { sha256: string }>
 
 type VoicePlayerProps = { questionId: string; kind: 'question' | 'explanation' }
 
@@ -10,7 +8,7 @@ export function VoicePlayer({ questionId, kind }: VoicePlayerProps) {
   const [rate, setRate] = useState(1)
   const [error, setError] = useState(false)
   const file = `${questionId}-${kind}.mp3`
-  const version = voiceFiles[file]?.sha256.slice(0, 12) || '1'
+  const version = import.meta.env.VITE_VOICE_VERSION
   const label = kind === 'question' ? '問題と選択肢を聞く' : '正解と解説を聞く'
 
   useEffect(() => {
