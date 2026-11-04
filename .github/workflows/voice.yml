@@ -1,6 +1,12 @@
 name: Generate voice assets
 on:
   workflow_dispatch:
+    inputs:
+      shards:
+        description: 'Shard indexes to generate (JSON array)'
+        default: '[0,1,2,3,4,5,6,7]'
+        required: true
+        type: string
 permissions:
   contents: read
 jobs:
@@ -10,7 +16,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        shard: [0, 1, 2, 3, 4, 5, 6, 7]
+        shard: ${{ fromJSON(inputs.shards) }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -25,7 +31,10 @@ jobs:
           done
           curl -fsS http://127.0.0.1:50021/version
       - name: Install audio encoder
-        run: sudo apt-get update -qq && sudo apt-get install -y ffmpeg
+        run: |
+          if command -v ffmpeg; then exit 0; fi
+          sudo apt-get -o Acquire::Retries=2 -o Acquire::http::Timeout=20 update -qq
+          sudo apt-get install -y ffmpeg
       - name: Record assigned questions
         env:
           VOICE_SHARD: ${{ matrix.shard }}
