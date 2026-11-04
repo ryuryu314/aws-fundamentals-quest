@@ -1,7 +1,9 @@
 import { mkdir, readFile, writeFile } from 'node:fs/promises'
 import { spawnSync } from 'node:child_process'
+import { resolve, sep } from 'node:path'
+import { pathToFileURL } from 'node:url'
 import { recordings, hash } from './voice-text.mjs'
-const output = new URL('../public/voice/', import.meta.url)
+const output = process.env.VOICE_OUTPUT_DIR ? pathToFileURL(resolve(process.env.VOICE_OUTPUT_DIR) + sep) : new URL('../public/voice/', import.meta.url)
 const engine = process.env.VOICEVOX_URL || 'http://127.0.0.1:50021'
 const ffmpeg = process.env.FFMPEG_PATH || 'ffmpeg'
 const settings = { speedScale:1.05, volumeScale:1.4, outputSamplingRate:24000, outputStereo:false }

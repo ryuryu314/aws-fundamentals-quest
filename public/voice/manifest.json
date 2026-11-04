@@ -1,0 +1,1381 @@
+{
+  "credit": "VOICEVOX:四国めたん",
+  "engineVersion": "0.26.0",
+  "speaker": 2,
+  "settings": {
+    "speedScale": 1.05,
+    "volumeScale": 1.4,
+    "outputSamplingRate": 24000,
+    "outputStereo": false
+  },
+  "files": {
+    "B01-explanation.mp3": {
+      "textHash": "33168743f876606527c3ff47c19f138bd1300674d25fe9a4a67b01c45991c7e8",
+      "recipeHash": "7dcbd2a6b5d394bdbdae68696936a0e6abb0e62d1b9e664935c7ac461b6a1d19",
+      "sha256": "27d0208198a8de666326af13dbcdf1699f40b509611dd478aa00b776d434e361",
+      "bytes": 83420
+    },
+    "B01-question.mp3": {
+      "textHash": "1afd115cb74c8f81d1893951287eedbc65680a7970df160cc64927622af84a7c",
+      "recipeHash": "0a1f0f4e0ce1eb9062496327493b345c671aa0607613547f3c2b10b63627104e",
+      "sha256": "0cdb8517c7cf761350bc650a45edb44427f0ce8c194910e27f6f23104f5fbefe",
+      "bytes": 137132
+    },
+    "B02-explanation.mp3": {
+      "textHash": "8b7209e49489b78f521cac771ef988df24ab05a95c791d09f5e606e4803022b6",
+      "recipeHash": "cee17a098e11133b5429b84eb4bcf5948c8db8ae07e0d6f6139148e23242bdfd",
+      "sha256": "5f85710a9fd425671480c04281a9d3a4416bfdb20f4f26d8e59f67b688fa79ae",
+      "bytes": 71612
+    },
+    "B02-question.mp3": {
+      "textHash": "fe92dee761cf040f37198af7fe1b4124c19b6b74047b8d3e78791ddd86cff888",
+      "recipeHash": "8e1079fdba9071396ec9cd88f610a55dbc34fcb29bc40b563a3905b101cc1cd9",
+      "sha256": "c355c85ecec669a612edf8f6879cebf0b0d1efbdd72149a33136e1fbe2a9f15b",
+      "bytes": 142748
+    },
+    "B03-explanation.mp3": {
+      "textHash": "ad237f7743a4459a538282ffbf695882a8497d7aca964b06fe8424a71d4fa7cd",
+      "recipeHash": "4c9f89f6a7d18c531b24c4525016217c6cc07a0b0a36f4741453c38d9c2e3be1",
+      "sha256": "e09f4c6d1c6df4e90150be56c66fd59a09ca95a5de8668d561d7d3cd66f4a318",
+      "bytes": 77948
+    },
+    "B03-question.mp3": {
+      "textHash": "68d8f4f725815f49a6c6eefde0972d852983a4287a0c47c38f44fac2b332a81e",
+      "recipeHash": "9952b35b27f42455e760290e66d25b2648e9f420c769d7fc44e383f010adc02d",
+      "sha256": "621583930d37e9c0e050f14debc319951cb1aa6e3461579743be839735ec1e80",
+      "bytes": 139148
+    },
+    "B04-explanation.mp3": {
+      "textHash": "e24ef8a0e3ce68146722789b63bfcf51c324b048e4556dff4a5d59dd1a956407",
+      "recipeHash": "152cd7631483c9967c22cc2a2c10ad85629eac1b78b624e6a7ced62ccbb1e631",
+      "sha256": "3207f0ff8de23f1d975f6294c4c2282500a087c9d94201249a9b935f972aa6ba",
+      "bytes": 78236
+    },
+    "B04-question.mp3": {
+      "textHash": "b69cd2f266221a4a453679fce6b120ce9a6b4593bde814cf28d742ed8269fd58",
+      "recipeHash": "4c5330997fd5782283c5327dfba73b836741e1d849109801973ff0ed5d1d2cf2",
+      "sha256": "656be273cb0d7c524e113c642a7c651abee2978862f8925a006f1af19cdbf59c",
+      "bytes": 139004
+    },
+    "B05-explanation.mp3": {
+      "textHash": "6ac1fcf0ff3903edb85dd63416d4a9ff8c147229abaf5b2655b0192a11c5ff55",
+      "recipeHash": "81a5bb8e2ea4ae1da79db5067aae33d81893d84684dc81aea6c14e93f464806c",
+      "sha256": "105119891a73361405a386c13baf432981d46472de0b16f615d81f5c8923a30c",
+      "bytes": 65420
+    },
+    "B05-question.mp3": {
+      "textHash": "b07b8fe98098d14467e7d3845310a80b17fcf919e2e8fbf3c95f2181d2f593de",
+      "recipeHash": "5d658ab2d5f19824190850a2e34ee66f69cdf219b9f3aad818067a42efe01eac",
+      "sha256": "470730bddf1aae1239355701d4d2146e8d85d2786795928f8d94d26444e67d50",
+      "bytes": 128636
+    },
+    "B06-explanation.mp3": {
+      "textHash": "5b5ac5a597f38e391f0e71791e2e99b1234770523b130ff389c6cd881e143e35",
+      "recipeHash": "baf6ff683f10c2cb5115646d9dd0df3f8f7576c0a2d431a16b4af5223a0f69de",
+      "sha256": "2a02251d56d9af13dfab84fdf88eab3e77fddd7bf163e8834cd90cbcc2aabeb8",
+      "bytes": 68300
+    },
+    "B06-question.mp3": {
+      "textHash": "66356b9da3912b119b29cfb0ca2194a15d1fc096818907b313fac0dc0c32cf17",
+      "recipeHash": "6b67d139fd3164220d82c9da9f2ca26e45d14dd7996de2ff2b65611dae7778f7",
+      "sha256": "77aabc8ea3da35cd55c45056bc98d431edcdedff62a1ef45b7e8b5e179147495",
+      "bytes": 154268
+    },
+    "B07-explanation.mp3": {
+      "textHash": "296f101602976513dc34cb1b9962fa2fcf967af55d031e5dd791828e8c352948",
+      "recipeHash": "a17e4456479bc263b9f9be68f9d2c020ccef1c66b504bc34c1b1e22f1e1affa0",
+      "sha256": "26a1d9b54dde771b8c8a5d418d2e8d125f998c036f6eb9cf480f7179c3048377",
+      "bytes": 64268
+    },
+    "B07-question.mp3": {
+      "textHash": "7901d8b9376419c0bd2139490cad8364a6ed0dd07ffcac3d3f20e37b63e7bfe1",
+      "recipeHash": "669a19623c27a8490c8ccd3a4296974964d5f86856bebe98917b8478d772137f",
+      "sha256": "647e5e245ca605f9dad84f85471b2646c4bd8c19e571ba5c72c0e99f28feaf2c",
+      "bytes": 133244
+    },
+    "B08-explanation.mp3": {
+      "textHash": "32a69425bc00b95efd63bda7f94f6fc9bb5d2d6de5623aaa52a3ce2857cd6ca1",
+      "recipeHash": "67cb7f790220f0bd202c941854d2ade443caed8025ba365e1b5af9c1f034293f",
+      "sha256": "c3c4df756bbe6ab5d08cb7c1967418d7eff91607643e9cca118b47b75580f4c4",
+      "bytes": 50732
+    },
+    "B08-question.mp3": {
+      "textHash": "613a9d46e96d48046b56459652d2ff7bcf54beb4068f7ad0f4b5c5d7e85469b8",
+      "recipeHash": "9efc82057928f32579e587048826aff5ddd70bff046bfaed7953ecea3c871d2c",
+      "sha256": "f485066f7f66e483e76a3ff78cd0bd04c938c8b6d6a72cab79f7cefec69e0e27",
+      "bytes": 122300
+    },
+    "B09-explanation.mp3": {
+      "textHash": "98208343e3ffd60f4426481969799176b940895186d225618c23c283263c0b0c",
+      "recipeHash": "c8b566dd8a6108991de7438987ba1b0a2d4d8744ec2b652f2dd6040add2605d4",
+      "sha256": "80b64c5570bf96cc848872cd26b424f6f07aab2eafcb4953eb8f491fca722065",
+      "bytes": 99116
+    },
+    "B09-question.mp3": {
+      "textHash": "29c75ee96b55f5797fc9698169689d11df98b31f7364b756771a6df81464a32c",
+      "recipeHash": "e0aa7f07a84890f8b70d7a208324ae3c2ac47c5632fd10f1bb43ad302f2faa5f",
+      "sha256": "4897223076a06d1bb28aea98d3a77da428e2d7f004e6867ae9b39ef963ae025d",
+      "bytes": 159020
+    },
+    "B10-explanation.mp3": {
+      "textHash": "cf139336ea150a80221fbc05d6ca03df094381d67ee8fbf870d1d011871402fe",
+      "recipeHash": "da666573018482546ddff4718b780e40fa053cb55f3e1cebc758a62dd8c93a2e",
+      "sha256": "93268fcf519748f3af32ff8152e20e6042613ccd727f6607066b72fa62a1c3c7",
+      "bytes": 73196
+    },
+    "B10-question.mp3": {
+      "textHash": "66bcbc901d707fa854e50730e3ff2215ad6a891ad0be5631f056f6f910d91ee6",
+      "recipeHash": "77fa51ea7208c683e8043de1b66e16c9618f1df9958498f4bbf0f46d0da47724",
+      "sha256": "0f5ff88354bf41e5ceafa9257c9c56d4dc5c87c0297191160d67bee32769e0de",
+      "bytes": 168524
+    },
+    "C01-explanation.mp3": {
+      "textHash": "2b192749ec395cb1380f4c49885031a2e150daad2c71f1c1efbf4129479a90a8",
+      "recipeHash": "44afaf0742a8ca61c9f9958588d26e776b99e3b6d12b1ef3a7079456e51075d2",
+      "sha256": "873639ae90bbf65518a67fb83daee2fa2764d15d90bbce09d08e202a45375838",
+      "bytes": 64988
+    },
+    "C01-question.mp3": {
+      "textHash": "09935dec64dfb18ee0b0dade0ce250d6f6f863d6dec296eb427cc344eacc0118",
+      "recipeHash": "387cfba741983fd1ccc260c5724fac27e704b8fe39c241b575a2eda7ac5cdbd7",
+      "sha256": "5f15e12ee63c8323062ed90842cf161c73496f66044703b2a1ef07a38140eaac",
+      "bytes": 147644
+    },
+    "C02-explanation.mp3": {
+      "textHash": "37a94b9a3d5e73bb2e36a82521f9abe230dda392706e04523ff42bc7abf94547",
+      "recipeHash": "0cdd848848d74b1760857f93ca0555673bc76c71dffac5bf9c60a3e9af894a2b",
+      "sha256": "d4cdedf4390cc119a9b43e47775d48e2104c03639ba26936cd13c5b4b1ce02e2",
+      "bytes": 44540
+    },
+    "C02-question.mp3": {
+      "textHash": "c1cbd72a9643d06b2ff8639be50af8232a0a67a102f9bbf128dc3b98534fbac0",
+      "recipeHash": "01ba2fbd2b053838f6ade1336e46b6f4d9c3cbaf287a6e91667cbcd2f8ef34bc",
+      "sha256": "125ff5bee9c7d170043e76a9ee3b394a966692891fd7a45d0e3a3db274c8198c",
+      "bytes": 104012
+    },
+    "C03-explanation.mp3": {
+      "textHash": "9bc2b1841c89b30ce8438618e6133bd324deb414a28ae286346099e6e9276b2f",
+      "recipeHash": "e3af27effb2ffee70e1bcb2538659924bc3f1fb2a9f69b8e5fa0f83086d5ef37",
+      "sha256": "c9e6ad99fb6dab79e95e5ea48d02abb1a1f2b049b5fafd1f6b639be164ff1753",
+      "bytes": 50876
+    },
+    "C03-question.mp3": {
+      "textHash": "cb524e8ce7d501d226307b6ef2b60a1c449f2d6edb3cbab150c4c3a87e3284ff",
+      "recipeHash": "311e838e415b5a1a21e2cb7824f5b09a51fd03be8b14116e8a97122b14e1fa05",
+      "sha256": "d14bd119bc91c3d38f19cb5928cdafdd8675889c40b14116668da119c344e45c",
+      "bytes": 130796
+    },
+    "C04-explanation.mp3": {
+      "textHash": "e580821d9551f0ad9cf94862d93bed92ef623f762f9627c7821a9ea182ad2879",
+      "recipeHash": "8cc619f0fbec072e623be4de45447c787e9e3b13a6b0071fb098baff131e62ed",
+      "sha256": "a6e163f9c7f3555eceffdac927ff9c04e82f7b231f81422b156a73b97ebef28e",
+      "bytes": 75212
+    },
+    "C04-question.mp3": {
+      "textHash": "c30f00781a749ba86a88c561c3bb0781f583f380f809a33ed4c0b77c489ad9d6",
+      "recipeHash": "df3d1c930dc6168142751c0f9821a562771fb3bc7ab744cb9657449375ded66a",
+      "sha256": "6b57b0f241c448dc4a2499914500379a67c5e3f2a2aa2da2e23386dbb07527de",
+      "bytes": 147644
+    },
+    "C05-explanation.mp3": {
+      "textHash": "0eb8d9bb7b1a939991532d37bcfb6145861f801dc2587a2eeb95bf45cf334dce",
+      "recipeHash": "a0eab5e0f38015849a83c9b264decbcc901f083bc946ba032b6348ae83ec63cf",
+      "sha256": "1fccb6f09b2176fffebe23fb9f3aa2e56499594919f42e57312652f677239bc5",
+      "bytes": 71036
+    },
+    "C05-question.mp3": {
+      "textHash": "406650dd1467104164e68572aabf9f4e0580119e1ed738e4db4de125e7b47ed6",
+      "recipeHash": "1d9168f6db91861c752730a1082cd4f7db01a39f9333ade1c442d61f40d3852c",
+      "sha256": "f8f3d4439693155ef419a9714395be38d42a8345bcd0798e1562f50022a64d18",
+      "bytes": 142892
+    },
+    "C06-explanation.mp3": {
+      "textHash": "d874baaca14dd9e509c3185413198292baf0f333cdd2fbe561630dd491526ddc",
+      "recipeHash": "4a3155acbc033320aee6faf8ea2db8fb883482a4624477819688d43613d19f73",
+      "sha256": "896b40c8df075a153626eb75f9dc3dbd26ae3f8471543face1ba7f2e89b73414",
+      "bytes": 71180
+    },
+    "C06-question.mp3": {
+      "textHash": "c426ec865260950a36cf9d4d454d01a9a70c3e5e0c8c634a876de37195239126",
+      "recipeHash": "1a471a213cadf7828219a9d16c161e3dc1df15eac8b9cdc20748b838a5858544",
+      "sha256": "5814604fe569209043dd3159a212c79b77cf5ab60c74ec7913d66d6c69140c0d",
+      "bytes": 135836
+    },
+    "C07-explanation.mp3": {
+      "textHash": "d44703c75ea8c029163d22b79e2914cfd5d1a6d0441fc1d2d48160aaa659c547",
+      "recipeHash": "00a2b1d6e6c2697834dc825a8375394609e9ec0ba06955635c24d8622d4a87bb",
+      "sha256": "caa8d725614658c8e360993a19f780bcc2243a197bc553774ee42e5fa99665b9",
+      "bytes": 52748
+    },
+    "C07-question.mp3": {
+      "textHash": "00add52b21d7307671360af10328cba113cd67762c0945c09b2db09dadf0c3a3",
+      "recipeHash": "8401b38ed2b7106ef0619e2ad4ece0168e909b8699f3c7a068d557fe53d3ed0f",
+      "sha256": "6f85f3232a55d42ffe6fde5f22c6d4fb79ca0e81fa14ea4a5adb061a07968fec",
+      "bytes": 110348
+    },
+    "C08-explanation.mp3": {
+      "textHash": "baeda2eb9b100123e7af2c34816558f9d4719801e09e9358c9ddc048f0ae6766",
+      "recipeHash": "8ad29511bb17b39260867b01c85ea67de74dce60d4669faf5b4053af57059e41",
+      "sha256": "c1ed7af9b327bb7d6eb206a2187a591690de2f1779fa5d24c37f4cf5be8a9d1d",
+      "bytes": 72764
+    },
+    "C08-question.mp3": {
+      "textHash": "3671d94abe543b8d8fdbdc64fc74850171a4243b2aba1d51f5a0baca63b401dd",
+      "recipeHash": "20f1af55952903bcd5e8aa9d982a2986cea61d3383ba05098ab7394c90552f55",
+      "sha256": "e00c16ba4b2b18203fb3522ee015b7b7e631a3da0545bedcb2f9ffeba7d1032e",
+      "bytes": 136556
+    },
+    "C09-explanation.mp3": {
+      "textHash": "8c849c7915e787ef5fcf869bdca0b7f7ad42159ed84b9f04cdf787723b505321",
+      "recipeHash": "287567abbda0016b644f2179e022ae3cf1df12c4559bae53e57a278bf6493a52",
+      "sha256": "d61bae71d2561c9c2ede6d9fcf5f7905aa0914f9454a0a4e973fb79bc72dac85",
+      "bytes": 58652
+    },
+    "C09-question.mp3": {
+      "textHash": "fd3944a424f4036955699606adb9d99b4cf6f38e64936ac6f92d6fa60be845da",
+      "recipeHash": "a5710fbece9712956a205c7eb15d77269f0e4cd796c5bde6b742040b11976af0",
+      "sha256": "dac08d4e5dc90a27f9cb7697545ac31aa52cf17b97944e6dc7bcf8a146dfb304",
+      "bytes": 125900
+    },
+    "C10-explanation.mp3": {
+      "textHash": "f6c9a15ba072950367360774e9a98bfb6d04a60712abc00f13b9006c3fa6936e",
+      "recipeHash": "b76a61836062d5c71a56aadd08d3e7836a4c8930ddb7f9a7f88101d6bfd0380f",
+      "sha256": "935df29c3b86d7b5718d81e95b47600d1619f6fc3c355be3ab9e8df5e1a982c0",
+      "bytes": 85724
+    },
+    "C10-question.mp3": {
+      "textHash": "6dc0cae1d1c2aa601667296625529bd60e6944ae5432f5db6c4f03db83b5fcd5",
+      "recipeHash": "a3964c14af60f5caffb8e2b064191e4b00859f809597b1ec61ca6b9702c6e725",
+      "sha256": "96c41102a887df4d113b399416d99639f9e4ce909f603c3830291e888901f767",
+      "bytes": 166076
+    },
+    "C11-explanation.mp3": {
+      "textHash": "7b895208f5b7557d4254134fe78c6f7a8b1cef47a0e78b1f4bbfd9884671f64a",
+      "recipeHash": "fd25fb092b3f1d65e7f81be5d9ab2901e1910a1b0450837551a9ad13d8446e02",
+      "sha256": "7eba5ae2c774e0ebc395d3d50b862d2fd33ea609e12e0bc033c801362a825c0a",
+      "bytes": 51596
+    },
+    "C11-question.mp3": {
+      "textHash": "1f975d2084d979cc13f8525fb8f23f0ee7285ba505b8d0de1355ed9a44345a13",
+      "recipeHash": "55258802e0089c0ff5528b00a9fbc87bdb17ca100a122d98959ef47225b07d80",
+      "sha256": "69cf7934a4d772e61480241f37dae5c8353a2b36fe082fe7359fb5d44277da51",
+      "bytes": 128060
+    },
+    "C12-explanation.mp3": {
+      "textHash": "01ad7fdec2a9006246285efaa7aa502d28410e236f3694adf15fece7701beef0",
+      "recipeHash": "026aa5e00aa786d432b65bbf8d270fc6fb05aa284f6aa1f4a46b24aff5d8508b",
+      "sha256": "6059e40dff15d57390023d6a7d6cfd996844a316a781a737872bc9a24c420236",
+      "bytes": 75356
+    },
+    "C12-question.mp3": {
+      "textHash": "4733779c040e38be367498da8455185bba3cc1a93e37aab54d86135ad54657fe",
+      "recipeHash": "357f144b0e9c2eacb23e46e47e7d4711f159ef19b7ca419bca53e67562a200f7",
+      "sha256": "8f6e0743ff8b94b70ee886a5d6438b8bbcb45c42fc4446cbb629fab54b8f29d5",
+      "bytes": 142892
+    },
+    "C13-explanation.mp3": {
+      "textHash": "a038c76094764d1cccd81ea25415021f8544ed77f1ced179700a942006bdcb6f",
+      "recipeHash": "4b19d8dcb418fa6606266ed0c087c3611bd148ad37fec2f43be489415c56df5f",
+      "sha256": "bb9b5da42940fc99c00c85f6b8bd84a4703d7ae31151273aa1dd5fca0b143d1d",
+      "bytes": 60092
+    },
+    "C13-question.mp3": {
+      "textHash": "e6fa3b7e676b1be8f3e7b83a535693907b3d36124bb8fffa9d83c871594f7761",
+      "recipeHash": "2b33595b107f76d54a76d23428d1ec48793e24a9c39059dc08e78d511ef6cb6a",
+      "sha256": "805297b7c7e21edd264ea6b0860601fceaaf4026d35b3603978e379d14475a7f",
+      "bytes": 125036
+    },
+    "C14-explanation.mp3": {
+      "textHash": "96eaf3c8c1845d2c2bec0559bd7144f0a1addf1831cf6247dc88f99e37425e97",
+      "recipeHash": "38eb7dbf15a7b95a07648e4468ab7868dfa1176c2cada9b9c1c6eccfae591054",
+      "sha256": "1b8ee7dcc5d0a8359c2c24323e30d0598d7c7219cff434f87a5a80609b950b72",
+      "bytes": 53900
+    },
+    "C14-question.mp3": {
+      "textHash": "d943ac5a23c5d41ce6c9379d7bcc830c7f995272c998345df714ee49467e457c",
+      "recipeHash": "4681b38aae45402bd9a2d5170b478cde45aac6838be32b14e8cc481a6645ef07",
+      "sha256": "ea4d56db9bd36c2ad4054469a29b480c51dd435d0bec65eea3cc1266fd5316f9",
+      "bytes": 128636
+    },
+    "C15-explanation.mp3": {
+      "textHash": "e13da3ac6df33b8b4c72a070292d6c0be63e6d08ac1e681c2f963191d4ebbd7a",
+      "recipeHash": "96ee0648afc7145aa7844c9dd84cc3afbe398ba5b12af48faf5f17975e1346bb",
+      "sha256": "dd33a8e67a443d11bff8a891c8b272fc02f80238718fd0ba7a27de20f2e192cb",
+      "bytes": 69308
+    },
+    "C15-question.mp3": {
+      "textHash": "13b2940df948af7ed64f6abb59d7b81601a314403fed5a92fc0bb83d68f90366",
+      "recipeHash": "1bced7c67206dfb03ca4f964fa286698196ab66df33e17041f0375bb3c4a9b14",
+      "sha256": "763533e46fdeabe17b9eb6f15b216259ac2ed7cd323fd39c9ddf705dfb8116d4",
+      "bytes": 132956
+    },
+    "C16-explanation.mp3": {
+      "textHash": "f1f1da0761234ba9c8ece17455e73219488868ab676e41ad4bb07d5bfa3ebf5d",
+      "recipeHash": "e87ad940d207afc6790cf8594d9abe4ffbd9a2c9ba8cef825ff54648ef0cf970",
+      "sha256": "9735f56ed02c11df93cc82f837edda8173f1f65ea9baf5fa35e89fa05ccf1fe4",
+      "bytes": 68012
+    },
+    "C16-question.mp3": {
+      "textHash": "6a968ffa2d277e940be7d54658bddd93ac0a10ed65e8e93da4167731b2cf7b6e",
+      "recipeHash": "210b4e34518ec13b7a459fa644c8ce56e7d15bb537846c9827c6babf324ffb32",
+      "sha256": "50c28bdb6ef6058c6cbd1d6999023ae4d9777df248ea0d233c07a20ba36b4c37",
+      "bytes": 145340
+    },
+    "S01-explanation.mp3": {
+      "textHash": "03fc480584c2e08953487c69bfc0e9479ba49832190a706f8f6ecbbdef6ea772",
+      "recipeHash": "441be7f56a43d01c146f5c0a2e1bbc3049614160a290f0e8b5a1e774de193c7b",
+      "sha256": "ddea81dc929c24384c0d332774f1af90072893d325cdf7149346ec215461afba",
+      "bytes": 63692
+    },
+    "S01-question.mp3": {
+      "textHash": "52ed19e59fb3161e70d71ccbdac9fbbd8a1c0a32a5500fbd810101d310937e0c",
+      "recipeHash": "aa4dccf73646aa9fe3c403a3ea4fd3e59509f9f6712c33f12cf546eac56ebbb1",
+      "sha256": "1c1b5b0a983c2d95c2b2b87a929b2b130fdd1b3f7c192ddfc3bda2b2ab130ecd",
+      "bytes": 166220
+    },
+    "S02-explanation.mp3": {
+      "textHash": "df2250485a272a4ec63a23aad1a40dc812463eb58330ea7263cb167b67b8c9e1",
+      "recipeHash": "49b040a46542715ddefba9e5a6dbeff7cef74e393836b785e4954b81d40d7fc5",
+      "sha256": "64be8e3513870181f0aa735cde686daff92f039af45e54c7b5d80abc2cb2e21f",
+      "bytes": 68588
+    },
+    "S02-question.mp3": {
+      "textHash": "96ec0ca9acc42d86808a81d8a4c9c2e878676409555746317fd395b8d7a1ab63",
+      "recipeHash": "5b3213aadd792ee069bf62450ace7dbfd5cc1374597725aad119d7e4ae2f7dea",
+      "sha256": "34b1e0b05e2ce9d2e6a9e4c69bd70401629a9759bc7e83af898145a908d2c1dd",
+      "bytes": 147644
+    },
+    "S03-explanation.mp3": {
+      "textHash": "8f9d23ea91f23775881e2cc7565e9480887638fdc3d3f0ae0858c1d323d47e04",
+      "recipeHash": "59f693bbb5d096ebf426391d12a96afd6b93e11e96cf61084e8ffe673b4a9937",
+      "sha256": "82d37200efacba76ce33858f6773ca14f4ecb9c13e888834def9268ec4fa8740",
+      "bytes": 58508
+    },
+    "S03-question.mp3": {
+      "textHash": "d23eb9eb38871bbfa8b1666b548e6374b34011bbe07b3ec209a2effb0db48796",
+      "recipeHash": "9dbb671a788bd3459733035b2a8c495ec795c252a977e446b54933306f1eb29d",
+      "sha256": "5979134fcdc3d47c7c8217613dc219a2c25cad38b00d28570c36222c2ee1eb20",
+      "bytes": 131948
+    },
+    "S04-explanation.mp3": {
+      "textHash": "d48d86a82253e5fcf5a5ef0f840d9fb34ebee59d04074ae009c28d76523dcef3",
+      "recipeHash": "8dfe1c749c27c5a61d3a1a5348a2da2c8b0abdb0f239938840319524bb04fa77",
+      "sha256": "5d20dc85a37c433502d03837422464808929b526a457522cf1bed6895c54568a",
+      "bytes": 71900
+    },
+    "S04-question.mp3": {
+      "textHash": "7a3146975aae5f8955f33eae95a322d61cdea5170353d76ce25665d32951f409",
+      "recipeHash": "e843a8c361839923ef22a1d6a1dce835d7fa237601a6c3a003160c90a57c97ae",
+      "sha256": "46b734cb06b2599fd71516f5967820a78cf1495c0e771fdfc5d891a993b97165",
+      "bytes": 127052
+    },
+    "S05-explanation.mp3": {
+      "textHash": "6c5c552e0b90ded2126db7f0a7c2650fc28a6d63a812d66be20fe209dad7573e",
+      "recipeHash": "17dadbd22cee7822b4a050ec9d82128f987295b277a3e6e66cf7425e094357aa",
+      "sha256": "48ccfbe639729cedde82f2c857ebc8e5f5ae561855c847066f00efda32778b89",
+      "bytes": 85004
+    },
+    "S05-question.mp3": {
+      "textHash": "dfbcc5e63b4d361b10652e24a9bc0f3803b1e6efc603ebd0b9ca8561ed56d5f1",
+      "recipeHash": "adabd270e096903a14a1303840b9eb29f888c629feb14c14cf19c933cfb2e009",
+      "sha256": "d49a557da8af3ee9b8f23ad20529fb0b6c3c0d681df9bad76029eea3eda92158",
+      "bytes": 147932
+    },
+    "S06-explanation.mp3": {
+      "textHash": "c994251d269d4c2e295b705b7d9aa53c59295b6be7b9fbdabf6f004f2ae0bc73",
+      "recipeHash": "66310234f50cbca6a57a1e170cd9361aca51deeb4bfeb9a3f17f933a55579760",
+      "sha256": "0011c50575fc33df95a8c480cbf612ce43e91ee2265696dec8cdc25107f2ae11",
+      "bytes": 65564
+    },
+    "S06-question.mp3": {
+      "textHash": "2052e0995ff1384ef613cad0b954b0f077acf0a62b0f28fbefba62dd7b1698ca",
+      "recipeHash": "37dfd4a1b893bd7d8a5bce101b890a90ec8b53482c8108cfd290c01a9c719f14",
+      "sha256": "ad4eabd2dd392bc3ca2e90cd9075c191cff8ab0387d99f145a5d3b9f673c526b",
+      "bytes": 136124
+    },
+    "S07-explanation.mp3": {
+      "textHash": "e2fe42fbd081fab83cfbe2c50685a69fed5dba1ecffdb09200542853cf11580b",
+      "recipeHash": "f11691c260a2ef5038502fdb63af4852729dcb8279fffa3e2c81b0a2d1f629a8",
+      "sha256": "7e92afd964ac27288f9ec1151f8ef71f7ff99a6935858862e487dec7a2da11a4",
+      "bytes": 85004
+    },
+    "S07-question.mp3": {
+      "textHash": "550348c3b0823771cbd4ff084507747d16eb4a2b25fe2c907ef0765c34792288",
+      "recipeHash": "8d6290c1d42d6706b0a613cb5fc577c7ddceb83b568026a520729d65763ff4dc",
+      "sha256": "cc7de3d520e9a17a903c6cbd9ea2285be599844f7f74d6734d7ebf3b2f06fa73",
+      "bytes": 150092
+    },
+    "S08-explanation.mp3": {
+      "textHash": "fb5291f69baa627ba11b7c700f05c446db1464f7bb86519df2b066876f37c7b3",
+      "recipeHash": "563219c626a5b769afd1cc2e735354e080039632c03a76b7d69a78b1a04026e6",
+      "sha256": "519d57c47e9595b223041599f6d1fb026422987c73113b5e28b4f8cd9a7d0e19",
+      "bytes": 65564
+    },
+    "S08-question.mp3": {
+      "textHash": "1ed74ebd234d812a5e5447caab2b863e755fbbb439690f1e19e4073f82ca35f5",
+      "recipeHash": "5d5ab658c7098f215512394d3628e0051cc12753e3afea9b39d8bf3a80282641",
+      "sha256": "2de71d79759f10c10f79e7b651213cffe4670d20c5057acd6b7838912f5f3a30",
+      "bytes": 147500
+    },
+    "S09-explanation.mp3": {
+      "textHash": "fce2f5e6962570d38f1c5eeda2c8f349afd018f74aa08e06adcdf5290ff000ed",
+      "recipeHash": "b6c2fb0f9451c78d90a44d4dbe62ba0165e1cb40cac987ef01d904c7e22e0e84",
+      "sha256": "fc99d47d819af151de5d0163224f35d3c14b9265b43205dceb39b32ea1d7b0b8",
+      "bytes": 71612
+    },
+    "S09-question.mp3": {
+      "textHash": "3c57b7262f3b12019faf029fee5d5218a56764791314a8dd8dfac100626cb819",
+      "recipeHash": "9f2cba482f815eda220aa8988f611bce45281ba3dfb4f8ba95e8bb6dd3a350b6",
+      "sha256": "e613e018fb2bc74fd04c7f72d14c83bae03fc1014b9daddf1f46bda0481c44fa",
+      "bytes": 149084
+    },
+    "S10-explanation.mp3": {
+      "textHash": "5479dedca682eb435e77ea83d3e162c291be408e76fd55dd6428aed559821a1e",
+      "recipeHash": "7df49c6e73a32e499e097e084419485622687ab470a70e58e598a3bb5bd589bf",
+      "sha256": "1f57999e1a11e023b7273b9d5feff4098130de6ba17f5a6c8b679ded59aa0431",
+      "bytes": 90332
+    },
+    "S10-question.mp3": {
+      "textHash": "3740ae79423fd6fd61438a8f3cce08e2289d22eb895d2972638d6614d6e754c8",
+      "recipeHash": "f37eb6b3547360d0978ea01f39ddee60d733199adbb632e736068484e48c42ac",
+      "sha256": "7f5b971659a89be8fa13d1a26d72ea88b25b527ab551057b72ed0f31288a41b1",
+      "bytes": 149084
+    },
+    "S11-explanation.mp3": {
+      "textHash": "24be3aacc2e2720b77cf1534257edc876524dd96763379e286e3f4ccf8287c50",
+      "recipeHash": "9fd2063a6d7eea40ab5bbbd7ef027fbef28cb5148a9d3bb7e55496a3a78a8401",
+      "sha256": "670eb38e62948c22ef1c68a687116fb3b4fddf929e96eac62da48e1f8ca455a9",
+      "bytes": 56060
+    },
+    "S11-question.mp3": {
+      "textHash": "51464a9a79803540e7f82440e74b61daf01bc7c1cd4c496e06bff1d93525ec07",
+      "recipeHash": "a7645eb1bef72446d9d0fd5795461a463a850952beb793f80d19176c2d7ae5ae",
+      "sha256": "66f3483678756c0971c710ccb706d3f2c4647636bda625b63a5e7456c76a391a",
+      "bytes": 119420
+    },
+    "S12-explanation.mp3": {
+      "textHash": "a35da2a60bca4aac92aeebca0af0caaed0565bdf071d9250dda07d69b08e4cec",
+      "recipeHash": "9391af3930465ebfcb001fbc3c696d36a5face95a88f351cf19cabe1fa1a16ff",
+      "sha256": "6aa86e57b623aaed33f134fcd8a0d10b12490d115d591f00d943b3750d340cd6",
+      "bytes": 74348
+    },
+    "S12-question.mp3": {
+      "textHash": "0427c6e22e138cba785a681a323ed77fa804d43b73c2c031c6bce35ee8fb2b2e",
+      "recipeHash": "8dad45764689be4ab925f8442637954bc92b112dfb20b18e3c20f4ce3da2884f",
+      "sha256": "0a8f520e76e19408b394dc8ac4325dea735b66c3ad8870be3ac62bc1219f0695",
+      "bytes": 143180
+    },
+    "S13-explanation.mp3": {
+      "textHash": "096e6005982a6f12a5f271fec0561a708559200605e67ed15136ef5541c157c8",
+      "recipeHash": "5cf5c357b50bb54fcec80f81f545cb638c92c60650abe6f68429c8bfaae28c5d",
+      "sha256": "bdf0460c6255d2e0303b6e89ae3c26e53a97b175a195f4e2b2118e7765410dbf",
+      "bytes": 63116
+    },
+    "S13-question.mp3": {
+      "textHash": "08d1028429f622eab8560fe4c50e69e03b315ae2404049c596f2c72354ac5710",
+      "recipeHash": "4c35ae82e98320aeed58b0b0ad4bb6e4836c922f36cfd9fbac7812baff880bb0",
+      "sha256": "23ecaa8c676931e7318c06d4e1e9349509616b8f3762382357e9b2466a265983",
+      "bytes": 139580
+    },
+    "S14-explanation.mp3": {
+      "textHash": "cb76ffb77b6b96c0f92242a6fd5d2df647b2f19ee54cfd501f4b64339863057f",
+      "recipeHash": "05eb76ace4ce9e2ecf7c480a9c96ce294396f5413691eda97ae0148bdcf49c87",
+      "sha256": "b954e03b07da7cb0764614bd83ce455e851930b947a7f1fd4dc71b0432fa228b",
+      "bytes": 72332
+    },
+    "S14-question.mp3": {
+      "textHash": "26bec8c4c7578e47819f134a8bb95b77bdc8a22c671344ccdec3b33ac5ad2a65",
+      "recipeHash": "4ab106ad5d3970d7d7e725a3ccd9fe0d086d698e5fbea7e55304ed37fc0af43d",
+      "sha256": "6a9b99a8f71411cd159ae5e666a2f056fcfdf0758f8ecad661330834d668f9b1",
+      "bytes": 145628
+    },
+    "S15-explanation.mp3": {
+      "textHash": "0ea46507bc059754a4ab1c4d403295c5ae4dca79165826577c232537684715d1",
+      "recipeHash": "8d827e26da7173dda913bc87753e5d9e77b5bfea407bddfdc233c10627816dda",
+      "sha256": "ca298f4cb82135b427615cf041bf3c61702c280673acdd9a7ec99a2f591b385f",
+      "bytes": 63116
+    },
+    "S15-question.mp3": {
+      "textHash": "8cee6f1ce429d1fb25c230645aa38913394ec62462fe17c388001ff686ca7970",
+      "recipeHash": "d7cc0c702587063a7349d1c66409097ea9d1f0ca6cd8b55433ec7c60f8f63880",
+      "sha256": "697734763937756c64cfcc881f85a9b24ff5aaaabdac6e05c25a18ce6011396f",
+      "bytes": 128924
+    },
+    "S16-explanation.mp3": {
+      "textHash": "555641968b24c2808eb0261b1991a385e02bd3f0edac2af007dec363e286730c",
+      "recipeHash": "647c4e7c00201c57429b823a47e9b23963964041455855f201a850983073f259",
+      "sha256": "93b3ccf0ac2c7c0866d0decc2778e0d337285f7d9aae484825d60ed8f0ac0e88",
+      "bytes": 80252
+    },
+    "S16-question.mp3": {
+      "textHash": "a791417fac6bb733278a60a0e055dea95d1e559cbc54d4b64148b98d608d08a3",
+      "recipeHash": "a5d2f6ac0ba0f54dc115a57e87979689d120ec9b1f12e27ed8ef772fd28f9b16",
+      "sha256": "6b8cffec4d20c88704edc9d4c17fec42dbcf54a9e9389a9dfc0534b385415cf7",
+      "bytes": 134828
+    },
+    "S17-explanation.mp3": {
+      "textHash": "1cc0fa9f6ae540eaf2334cb7363485efcc7ede4c50643c089e24a9858e83c8d1",
+      "recipeHash": "4276e4c62b302cabbbe71d3a4d64c815de3bcea60ce53bbfc3110d5fd3c342df",
+      "sha256": "89271f2bd975d46a4e1cb30425922f34116f9b11d193d9d22e759c571d94b5f6",
+      "bytes": 75788
+    },
+    "S17-question.mp3": {
+      "textHash": "210789fefd66a96c86505b1a7e3c95b3e81cf66216cbdf0ac6d5720e8a8e67c3",
+      "recipeHash": "6e9a854eb9570d974a3b0279720781a5fb6dce724bd51ad9e0e9c6aaa22dc76c",
+      "sha256": "04c80c401e1689f568b65016cb206816fbae77b8e5067ecb1be9a8b74a76379c",
+      "bytes": 138140
+    },
+    "S18-explanation.mp3": {
+      "textHash": "2b3a2d5d539ccb1fbe3667d6da7f42588431bab76adbffaa2810837b3be03da4",
+      "recipeHash": "c77e5ff1ed42ba84bae76195d4f9acbcc8912d7ce53159a810888c4cc54813a4",
+      "sha256": "4c12d69d6e071a4d75ceffba08a33909dd821ac82ff8811df22cf373e222be9c",
+      "bytes": 63692
+    },
+    "S18-question.mp3": {
+      "textHash": "7c5ecafaffa0b19399ba2603785654a78b1b7237ef3e3db71a118bb69a53754a",
+      "recipeHash": "f2071836b040da1454e53d5fed0ee4554cc565c05e813b69ef41c8fcc7715349",
+      "sha256": "97895d11850c334d90847f3cbf4cd3325142c889ad8baeebcd6fa4dfdf55ccbc",
+      "bytes": 142172
+    },
+    "S19-explanation.mp3": {
+      "textHash": "cbb0a75b641fffdc383e34b7a2f38ca5b64bd08129955f7f44176d968bff6126",
+      "recipeHash": "6ad0587bfe4696f7e0539971c1835f50868834362fa332aeca03f8053849fc38",
+      "sha256": "cafb2fdd05509b8f9c608c63f0d42653f72434d3e4407627340c6f90e7a3a66d",
+      "bytes": 72476
+    },
+    "S19-question.mp3": {
+      "textHash": "66afb16d49246108a620c1da2611bfbfd793e485c162b2199108074d88abfbae",
+      "recipeHash": "b43338bf963d6d06bd252e53e95b64a671d886a29649807a337a02f7cf5259d9",
+      "sha256": "4776d6f7243ce62a8b9c0fc6bc61259549575c4600166890731ba6ecf39ebc70",
+      "bytes": 138284
+    },
+    "S20-explanation.mp3": {
+      "textHash": "5d437c70c76b073ed989266084ce431009d9e9374027d258827a499aba5741e4",
+      "recipeHash": "9d839700cadbd2b0cfa810b08dad9fed2939bff81ea86827c2236734059430e1",
+      "sha256": "6fc8f0aa072f5cb2d9273bfa4608498f803a08409ad1a7ec0e7ecd042898223f",
+      "bytes": 71180
+    },
+    "S20-question.mp3": {
+      "textHash": "69784ed80656ee5e25c893f44f43c554c202812afad766e161483258355b00ae",
+      "recipeHash": "93c2ae4b63250d0f787d35cf81f8c0dbcfb73d614149080961e484c9fd1e5960",
+      "sha256": "a3391af11ac7dccd2c442ec43ebb5a9b900bd2d05a834cfd2bdf3724d027af82",
+      "bytes": 148220
+    },
+    "T01-explanation.mp3": {
+      "textHash": "5a2d4709c9a6d7ff7318c845b9f7c1c807ae3715222a1ff1807fc596b5c7f550",
+      "recipeHash": "62f7c23958a4299b86ef6649423051ea99da3f5f7378457cf6e5679e3c99ce74",
+      "sha256": "b808d27d13ef5a9d86d4114859acb2b2015db4a9d64f9d9dffb3d4d3a58367df",
+      "bytes": 75356
+    },
+    "T01-question.mp3": {
+      "textHash": "8ed89db61cc59caee66bd9926d01f7fda866ab660e354349c721c1983cabfe0b",
+      "recipeHash": "0c1416ce98aa940bbebeaf1447561fd9512356a4174286945137418d1d0c1283",
+      "sha256": "b4b815bd89803e6b68a155dd5c455222eca4df76e71a45bb88d7efd074bb8cc4",
+      "bytes": 125612
+    },
+    "T02-explanation.mp3": {
+      "textHash": "1407735da446879d4e9b5151bb96b20161a27d8bcb9b8440e09d27466c1e847d",
+      "recipeHash": "5eb89251b987025174c760ab0e3e3910cef424e7ce2cc58f6c6b44d6ab09d533",
+      "sha256": "4a6afd74f01103ac29c71af9d8a9b5ba435741a955e098a07c5669f1555a2462",
+      "bytes": 86444
+    },
+    "T02-question.mp3": {
+      "textHash": "c3af6825863908875018dcbb9e02e26556b2b897356e9eb685601e1a27dbbf73",
+      "recipeHash": "8fc1888f3b050351974e514574f8d80a0fb59589cc5cb9374d78064bb3ff9d46",
+      "sha256": "70f5836feb38f1ed225fe71aa85dab27bf855a54393fd42f45b39ce715b0b182",
+      "bytes": 143900
+    },
+    "T03-explanation.mp3": {
+      "textHash": "10fe9beeb650f44e5e23ecd387676d457a5bc5cdfe3cd3c1e7e893d9bc8ffc1d",
+      "recipeHash": "f7336b602aaf398dea158c2044125c24763af7fbf43262997eb7984554dd1b5f",
+      "sha256": "05c23c2a96812194f0991de1b89fa31c08153d6582023bb9fa1812937e210c2e",
+      "bytes": 63836
+    },
+    "T03-question.mp3": {
+      "textHash": "0f61411fa7c02c3948e7a12658ebe366618e42edbd87d6e1a9aee40f22c2a692",
+      "recipeHash": "c5a434c43e37bf12fce657f258ed10c84322c4a45e91f9cce93318d575364e8f",
+      "sha256": "473c834941f52d1ff5abba815e7297017206e19f6098c7bad6b184d9a59fa93e",
+      "bytes": 139868
+    },
+    "T04-explanation.mp3": {
+      "textHash": "6dd8eebb099bab3c631ffee4e6ace6151f52de72e0f045ffcf7702607e9252b6",
+      "recipeHash": "52723f19da77d16f8cad8bda57d8b56b7e7079a4e6150fbd76b1f6a3b116edaf",
+      "sha256": "c81289f236a629c746a796abd7954144aaa0017c917655580fd61382732128f7",
+      "bytes": 64556
+    },
+    "T04-question.mp3": {
+      "textHash": "7b540b600c93a18c1eb076e7a570445ca51943d42f645db28b31b39463c77b13",
+      "recipeHash": "0c123db586d19bc32be8494e26ccc767cf56a4c091b869df90f51d376d9de112",
+      "sha256": "3752240eeb0f453070d33eb88f1a28cbe19cd408fe1caec37e0d5873272b4081",
+      "bytes": 119708
+    },
+    "T05-explanation.mp3": {
+      "textHash": "ad5e39efe62410e6e806e74b9a9be81cba9227535faf9e85b6dba6912559590a",
+      "recipeHash": "2b20c9eb7c03151c895605c1e2853e845cd0a55e4ebb6e41c88af99e0b02842d",
+      "sha256": "08a9182f9368f71d8dbe9cce4d3c89b0c1db2e40331573a999f1f5703ee85daa",
+      "bytes": 66140
+    },
+    "T05-question.mp3": {
+      "textHash": "38d1bc11b5b02b076f94747a3a42083474181e1e2ebfd28aa52653705c5b09cc",
+      "recipeHash": "0d11811837a4d662459c7ef2bef994662939c41ada2a54a2a037b6262dac70c6",
+      "sha256": "4f03b4e3d766df8870585dfd2e13debba5648d828d038b7e2b7b8853d50537bc",
+      "bytes": 156428
+    },
+    "T06-explanation.mp3": {
+      "textHash": "e74a536e097f83ef3c828a725768e15eea899c78daab5f5cbef7e4daab52a016",
+      "recipeHash": "3cb04afbd07d2834fd7063e44d5b8cf73ece6cdd96032814ec5e88a122e3875e",
+      "sha256": "29ccf2e8a15e55a2412dc0af788374a2a1ee310e9c2b08cfd140cde8fdcd5fa0",
+      "bytes": 64268
+    },
+    "T06-question.mp3": {
+      "textHash": "bf7cc0e438bd028f594e9dad3c51fc14e42a330f6e47c01e381f4423f536e0d5",
+      "recipeHash": "ba93996199cf014964a5337b8e9253933f5c1b8da1848228d5cbc071584063fd",
+      "sha256": "2557478075de4842847cdf2e76141d0688cfd5d82afbe48044e894ca628827cd",
+      "bytes": 141020
+    },
+    "T07-explanation.mp3": {
+      "textHash": "a900c9036e5bc81038827c05bdc6f8644a60566473d20891f3fc731a6e1d4d78",
+      "recipeHash": "0fe75704e00d453dbbbebabb7a80fafef014f508c6677eb4ab0e6e1c2a42f69f",
+      "sha256": "ba2002e669080fde62a32b2d6638edd0495039b5febd2250e5bc8faf89868aea",
+      "bytes": 77948
+    },
+    "T07-question.mp3": {
+      "textHash": "d263041f4499aa6892f8ca3a940373581def5a73fadfa078081e1aa53132f233",
+      "recipeHash": "54c99a16b81ed3e7f44e29cecb437459b8ae9a0495efb2dba5760b0b621bf7ad",
+      "sha256": "58974d0dab54ff87c4fd2f01e997b062ea63ef072b7e3002302c709bbc15e4cd",
+      "bytes": 145340
+    },
+    "T08-explanation.mp3": {
+      "textHash": "3aa4b5c7d731771abfa3a24fad7ed37672eb51885a814b7a3dba4a5774e2427b",
+      "recipeHash": "44d85b42d5b92dc05c52fb022f8899ba76d0db84562731733bddfc391a388ad3",
+      "sha256": "89ae5979265ca0035a8cb1e3cb9db7a66d3ad1bd9aad2d7f8a7e33036af0dd7b",
+      "bytes": 72764
+    },
+    "T08-question.mp3": {
+      "textHash": "8e081b0eb6144f9ff7639f12715846980903e5bc867031b750b8cb85f7b3a4a5",
+      "recipeHash": "a4e9761d3fe4f88dc9dcd8275f7f4d595c1ef724c5bee13218a1ed0989b7639c",
+      "sha256": "236f72bad17125540e5d1df24b27e4bc696115f476b47aceac9430737a846ab5",
+      "bytes": 138284
+    },
+    "T09-explanation.mp3": {
+      "textHash": "f74fc288dacf3d82c8734d8130e676b6b8b89f0fd49c4cef45c0568d6c057f45",
+      "recipeHash": "6e9cfab6f44b6d62cc37a2b4bdc9a99a4524c3b5f5c11d3db2a6e96ec155e062",
+      "sha256": "06c3c48f994483573228cd66ea44df3dbdb19c8d9b1ca3c0e0653e534057a303",
+      "bytes": 55340
+    },
+    "T09-question.mp3": {
+      "textHash": "3de8d694c6473a6ad2abdfb7625b80aad87a7a42b4a32e6c8a6d220473740179",
+      "recipeHash": "9ec9e2c45b7bab34cadcf577306beb08accf1a89c934c9d30a59a260b9a44e9c",
+      "sha256": "36fb45cad499f629f869c1fa5848939e85c693b45aebbc0dbaf89e01057b224c",
+      "bytes": 130220
+    },
+    "T10-explanation.mp3": {
+      "textHash": "238542ab69e77ac4eb6ddd4d5cb2faf95e33088a631b72b71b35ebf96d505aa3",
+      "recipeHash": "d017fc0b2ba585907832935a7bf1dd241fc320472494ee943e6b98954767748a",
+      "sha256": "38785a1f7c1bf8fd305d3754cad85300a4224030b877d2f97e47b9cd0e592fa4",
+      "bytes": 58220
+    },
+    "T10-question.mp3": {
+      "textHash": "d7449ee39de3965b8e922cf57f3a63df38de65825f8376610a1f4839282cf316",
+      "recipeHash": "2fabbfb8a7ce9a6c33e0f0afbaa61b74b798b0126be2e31a17628f10a6138903",
+      "sha256": "9aa28db062bd6770d682d6f65c31ab7d765fd7c7ad0899624cadf2403e4ea868",
+      "bytes": 113804
+    },
+    "T11-explanation.mp3": {
+      "textHash": "105050f288d93ce9b23a21fc792ce5840f38fabe870db6d67db75e9bc7494a05",
+      "recipeHash": "0915b6d24624c918c6045574fd35defb4099df4774a0aae51ddf4b1b23fbd2a9",
+      "sha256": "506cceaa36e32d6cfd99c320d6e4514ce1fa0e19ad35c446478f7ff36639d3f2",
+      "bytes": 71900
+    },
+    "T11-question.mp3": {
+      "textHash": "753ed063e53a4c04fc08871d40acceeaa9b5b9f06fe79c9ee4796c6ff73570aa",
+      "recipeHash": "cf42b1fcc03362620f0d21920f4ba5f18135156f219324ee73b67a1d6ef6cf09",
+      "sha256": "d0d178e5b77a707e4dc1294fca26c2bed6bc4b64fd5bd054193b806d3c620260",
+      "bytes": 131660
+    },
+    "T12-explanation.mp3": {
+      "textHash": "3595585b89f4c141a70a19a257e4c8512d17b5deb067b14bf1466fdd78496e6e",
+      "recipeHash": "18cfa73c492be974f8a6d945645a65c28534429e184b8aae8a0227d82180ac1e",
+      "sha256": "f81fddd55ec56592ca24516a57e8523625d04d4c757b08b5fb7861c12b9010c1",
+      "bytes": 67148
+    },
+    "T12-question.mp3": {
+      "textHash": "7a598f8eed127c9a77984db2193dfbf482b00539582e7748a91212bb51b9381a",
+      "recipeHash": "896af9e609170148c582158b253a19c9ee0d8b068e58b7009fd8550bd1a64199",
+      "sha256": "aa44b5c3b5dbe03fbfba8bceeefd82105e15ad5ed5a06b3b9ff06f80d16bce9b",
+      "bytes": 147788
+    },
+    "T13-explanation.mp3": {
+      "textHash": "c341e43190e1f55372aaf034ac40f1df4729e6759366e0bcb8e85a463ab0c894",
+      "recipeHash": "13d08538bde59d87c991243b98491d97535f5bae1aff5b0b1a45bd6991940a80",
+      "sha256": "cf2442e0baa893d1ba4e02a4134bb790731c18d9f56bf8ac9e02c6fca9390fc2",
+      "bytes": 71324
+    },
+    "T13-question.mp3": {
+      "textHash": "74992e2cae3bb63da9f2ac51ef90ee837486055e8c5adc5d1cd920bec5177d7b",
+      "recipeHash": "8ea9aa20f88b8b9be7b2c991839ad2182ecbec3943b96631ed3223d444efc884",
+      "sha256": "ff083dfdb993c9240aaee3dcb41c73e3ea90cb7f37fb2dd1552b3f53ad8cbb88",
+      "bytes": 148940
+    },
+    "T14-explanation.mp3": {
+      "textHash": "a2b878e9ab0bb4899e8b45275b6b3fe4794473aac9309d509f8abc8dd148bd32",
+      "recipeHash": "63a6a013b52736be4f0185eab820ad65ee2c736831f52fa6103e4a9d5cf47934",
+      "sha256": "b4fbd0ea88e502bf4d9c6562f2e4ab558529b1ee4facb91bc9409c729a79b60a",
+      "bytes": 63692
+    },
+    "T14-question.mp3": {
+      "textHash": "4df624d9d2e24784f4849b1abb12ad627b34dee9a397193ff1b0139a5d520453",
+      "recipeHash": "2ee05a6114d0a6f6013c3a17d20c5bd8d6ff17aa437f28b8cab7c352a7f87981",
+      "sha256": "0f2c650ba4c100cf6278dd900235127b0ea882966f1d2f826cac988e93e64e35",
+      "bytes": 122156
+    },
+    "T15-explanation.mp3": {
+      "textHash": "528cf4eb11d5a67bf75c9b1fe87a8a0a054ada16f4dd26ee131aef5dbc46eb4f",
+      "recipeHash": "c0da41dcab0891fc394703f64577b26413584fba9893c60488502c59ca7895cd",
+      "sha256": "08747b94574862ebed872476c777ec88c85d8a8b8106da3caaab2ab5a9a3f544",
+      "bytes": 78092
+    },
+    "T15-question.mp3": {
+      "textHash": "2b55808a20c499ab5a848e54aa42925c682c3d2a1a54a0e18460f338e35db448",
+      "recipeHash": "489a77578112f2e62e99d93795daf986dae095d974590e50c9bd83cbf3f37d67",
+      "sha256": "7f5cc871f630496e001324975da1e3cce691fd533cf2e74706e1987a89194934",
+      "bytes": 145484
+    },
+    "T16-explanation.mp3": {
+      "textHash": "e2bde55395a9828a86dca20de08e69fdb46894d431bbe5bfb615cda3174b15f4",
+      "recipeHash": "28a4f1e346c4280293661838119c3762a8d356b7873f51b9709b71989f92cf41",
+      "sha256": "c56c9ec9333c6f7c517441f6fb442a64dd42f0566bd4bddacf228beee1707242",
+      "bytes": 75500
+    },
+    "T16-question.mp3": {
+      "textHash": "5eb24f5e6565d1f8ac6448e404373b2ab0ef10860f4f063673aa4333f74761f1",
+      "recipeHash": "961b921d3f6fd0cc414c6b31082182c01f02317073eff0450cf8e0e1c8d4dac1",
+      "sha256": "3a0857185758098ec2d10ff4b23f5d67c9f1f8537cd20dea1e51ba25b529af85",
+      "bytes": 136412
+    },
+    "T17-explanation.mp3": {
+      "textHash": "3935051b7d20d123bff4ba3e0a23fcda31592e50ebf145fcc317dbbd6ff8e24a",
+      "recipeHash": "fb80c1eb4a744a9e47323bca5596d0f1931248477b816a691b6e381c27360f0c",
+      "sha256": "76d613ea19e76f0054c47c24c2b50c496968f2697083ee38ce26a7d4dfaa868d",
+      "bytes": 70316
+    },
+    "T17-question.mp3": {
+      "textHash": "d847c0084504a27b0c1df350f52564560e17ffc46ee940864952d666aa5f9454",
+      "recipeHash": "472d9014c46d91bdbbbe358a580c81f3e81ae5884173a9f8b5fa64eb5704a454",
+      "sha256": "a9a1b3b4e3ac40a8d2434eeafc79f5b5793e21676bbc2b4c906cc7ec86eb8f2a",
+      "bytes": 133964
+    },
+    "T18-explanation.mp3": {
+      "textHash": "ee2b3c5a9bd446a236a700aff67100190d6a82d6a11aa2c1fe1b96f02cdc3921",
+      "recipeHash": "8d1342f9b2020c79594916406676a3bf01304a92579e7ef1ea6c2b306a74b955",
+      "sha256": "624d06264769d76f4c3b0fb559933e0791c1666b38f88eeeb1c2ce68c1af1d46",
+      "bytes": 75644
+    },
+    "T18-question.mp3": {
+      "textHash": "b9fb353751fef979bd3350f94dc631fc798d9ae0f0fe2bf02b75ab19c33a99a7",
+      "recipeHash": "bf6203d847908403681a714eda998514473fad54bc3b1a71a4267d451172404d",
+      "sha256": "caecca9435b720f67162b937ca97e09418de3fc100f627182c00f7c1d627c7d2",
+      "bytes": 137708
+    },
+    "T19-explanation.mp3": {
+      "textHash": "0687404b4647a69bf620b2c253f48087585931f7bc993d3375c49c9df09d3f2f",
+      "recipeHash": "d8e3ad10ae2a71423e97a14ef1d360d2b88eb5077966f74b9688701e869dd4cd",
+      "sha256": "0108f5ab40546c0875edc4c4baa3cd0dbed46943f544555baa0ab8c9a3a2b85f",
+      "bytes": 69020
+    },
+    "T19-question.mp3": {
+      "textHash": "4ce2e99e11de632b8ade7e7b2a58058289e171aab613bef4ad774a34637d4b01",
+      "recipeHash": "c40918db5510fec7fc694aa39b881b7698ed7b0edcfb945de3066cb7011185b1",
+      "sha256": "148440f6ef9a90a36590275a34bb2aaa71f529e7fe7a830d0847eec85601ff19",
+      "bytes": 130076
+    },
+    "T20-explanation.mp3": {
+      "textHash": "059d9c4dea1d491d72ff0294d501af39bf3f142d3d439578d07528767cfc0c13",
+      "recipeHash": "b1021c2c2db4cfc989fd5f69e964ac00e422ed137c22fd997e469ad17dfdf737",
+      "sha256": "7b52e22dbb656a8c6ad730c66a050113cf65d03bf9680686859b95fdd5ce254f",
+      "bytes": 66140
+    },
+    "T20-question.mp3": {
+      "textHash": "d73644fd6c66bb9b9f66cdac9a0c06d1ebd53b8c0cde9a50fc39b332562a93eb",
+      "recipeHash": "9428b7126b3fbd5aeaf0a678cf25a50cf2f0f74c8122043cafaa85adc7a55550",
+      "sha256": "ce079d69651ed4e6951784cf86d91440bd7f9532bffa6516986c63cf13f90ba5",
+      "bytes": 133244
+    },
+    "T21-explanation.mp3": {
+      "textHash": "35a3d29c99e16b4a19baf9c1f7160183ea918c5f6c5bc9b364c445a368df3dd2",
+      "recipeHash": "c2f8afb00af1632d82de683c536e74719d4b2ddcc6ae7a197d69a97883e4b975",
+      "sha256": "8e65e6b40683bcf712afd5b8733e8fe55291631ebfc31a2c6a92000ddf33087e",
+      "bytes": 59372
+    },
+    "T21-question.mp3": {
+      "textHash": "884c9e3af544eabbce5d9dcd7e6e9d97f6040e273328a0b2bb9650193681d209",
+      "recipeHash": "5caefc2b70c4b31faab5469b68ed237f2a35bb8a66cd05526c9558cce77ae07e",
+      "sha256": "3d1f19f65e8c58a117a59d882871253d8876a276e62733208314c1c31afca11c",
+      "bytes": 144332
+    },
+    "T22-explanation.mp3": {
+      "textHash": "3c73281e7a2a2c6fe05305ce201f3ccf08c2490b5a99807b6896819a152e54ee",
+      "recipeHash": "d2f5cb20c20ec5cc8b8e695c3ab227690981ca2a727353d107e7e490fdedccf1",
+      "sha256": "4d76ce577f6a7f09c29ef8035ccb575474dc571ece1839e450c3d6de3943c127",
+      "bytes": 77084
+    },
+    "T22-question.mp3": {
+      "textHash": "5b93cd251a30148abb005e126d20341e0aaf30bb5d75429a69d15329c4cb264f",
+      "recipeHash": "626843269841e7cb671c2de46447cc9e12781dda0301518845b518e2088a319e",
+      "sha256": "94c1706ed2e688162d4f2865ac555fee2360f228f93a216e79b4bb518d5570f5",
+      "bytes": 145772
+    },
+    "T23-explanation.mp3": {
+      "textHash": "51a31e4f68536191d2dad03c44315c043fd50a6f941e77f6f9752e3761f87588",
+      "recipeHash": "fd9e53f0b1974b30aadb3f7d392941f4f28898f568b6b25fed9a0c035f429be3",
+      "sha256": "602cdf098d286ddc00d2d0b3530d6ad332b3236ade99aafd063ac3cb4f4f10d5",
+      "bytes": 87452
+    },
+    "T23-question.mp3": {
+      "textHash": "c788a89550709ba013a5dca9701f300baec2cd807566a58063a9f93f109b02df",
+      "recipeHash": "6fd429a0b823da4a02be8cdeff860e066385fff13ebd50b30cf93120acef0511",
+      "sha256": "159c166cf9a92c0b5e82a8a05f790bae7c617754c1705ab01b39656867898777",
+      "bytes": 154124
+    },
+    "T24-explanation.mp3": {
+      "textHash": "638b00c8bbde4a0a6b04575bec0d0eb650d31f4f53015b93d0e4ce2901e16d4d",
+      "recipeHash": "2900a0b43235877bd087063498459420c423812e320e9a545ba6d5d6178e7cf1",
+      "sha256": "6890083a7c672d2f0a6049b3612e9d0b281b645ad43967d4e0fd09405e9530bc",
+      "bytes": 72188
+    },
+    "T24-question.mp3": {
+      "textHash": "7893bf13047736710789aea2245932ee42704d692de3a737305ab26fc59ee9f8",
+      "recipeHash": "a9677ad659671af5b580fcc5ec1542e98ec6216414079c4cbbc22f3abeca822a",
+      "sha256": "f8a0d9d0bdd4186dd1c36407307a4c8444b9041cd012c006b4ceaddc9fc101d7",
+      "bytes": 146780
+    },
+    "X01-explanation.mp3": {
+      "textHash": "1a6c33e57da7c8dc8413cc0085be11ac921f09060b03c13f4548ddbe649cee0b",
+      "recipeHash": "7f154d147d6fa6423794417d6031b567dce006005de3498e5a80e41aed6b2c7d",
+      "sha256": "374328b3aebc7e23074ab9498573c809edbd0df98d3aae8ef7828d38b46d1560",
+      "bytes": 64268
+    },
+    "X01-question.mp3": {
+      "textHash": "04dbecd4a0d7539a8dca054970416bb6500cc69f38b8af07e3b49b6230116093",
+      "recipeHash": "5e63a8d1ce5efc1378ec53612613ce1ac71dbd384a3830cd12f1a405a614be5c",
+      "sha256": "8a8b7db185ecc84f6ec045b9d440fb54dbc40718707b153a310b6ca3a0409bf8",
+      "bytes": 169820
+    },
+    "X02-explanation.mp3": {
+      "textHash": "d946a8cd8caaba37c1d42fcd49099754c1f5fa75f7b3b0c43d6208f850d2e7b5",
+      "recipeHash": "162322c601f57ece397225046c5155c7f8b9d3f22846b97c132f77633a3ad8d2",
+      "sha256": "269c31fc00999317dfe996907b0ea755f324afc1a32902a26a7bbb5431908148",
+      "bytes": 64268
+    },
+    "X02-question.mp3": {
+      "textHash": "4b96392fb1c6839fc43bdcf7bb08642e5e4bb829121df2aeb74b935c79635f5c",
+      "recipeHash": "06f83eae6a3337fad3812a813d532aa3127d9d199670e3e1811098dba8612fe3",
+      "sha256": "4ca35be4a0dbe0f6e28ee2654bc049d7d9daf6db98fd3791bf2d49f69e5291cf",
+      "bytes": 149516
+    },
+    "X03-explanation.mp3": {
+      "textHash": "683fe864dbcd9e6a1ad26e635ab2a1cc5b3701aa3cc9f1195738de1220270ac8",
+      "recipeHash": "9c43157d0dca840bdaf78cf0ec8d714cbfd152f94d403b0fe2522bef15794801",
+      "sha256": "b40214ee64a8c1d46af6cd9546272dc1ad07febc7d3db70e91188049dea67a5d",
+      "bytes": 83996
+    },
+    "X03-question.mp3": {
+      "textHash": "d19dbdd467f667ea97266faef5b3bc54141fb06e5761ecfdf1029e2b7a1039dd",
+      "recipeHash": "772e0b091d2df478ee1f844b1936c645884bb31178951a1c5bc56f78bb5ae865",
+      "sha256": "963932acd048a5d6eb8a850ee1a04b01b5b7033b3779b5d2c29ed20c31a6538d",
+      "bytes": 177884
+    },
+    "X04-explanation.mp3": {
+      "textHash": "1fa59d04e214c0b330e7cb3e5673aeae578530792b69dd90b07c792af406eedc",
+      "recipeHash": "799c4e4ce5ffc470494e98b6e4e93d2f1aa2c5b22b5851549789ef9682e1fafb",
+      "sha256": "c4daa6dd292b23f3c570a30962964b0b3385b134277485d55770870d77313fc3",
+      "bytes": 46556
+    },
+    "X04-question.mp3": {
+      "textHash": "342e0e109e0c750233bc7fdf87ac74a61e85f0d9f22534aa45f62345d0402c3e",
+      "recipeHash": "550b28d2b16c306f265cbe770a24ed867ef9eb87645401fd7c026dcda88ef7f0",
+      "sha256": "610c107418c350aa4d7ab61199304127139c499dcbe6efb853affd5ef74a2f66",
+      "bytes": 113804
+    },
+    "X05-explanation.mp3": {
+      "textHash": "4603d3f821e972e25b11326efb4b9ef74a6be4b480f60042fcec0222eb7e748b",
+      "recipeHash": "4f371405545b490ca218f468632b0c0a34cc54088ed6dfb21a119217098cd892",
+      "sha256": "51a4b672bb5b66ba339805548aa2af61670595dbe16177e1025e492eb100f8f4",
+      "bytes": 63548
+    },
+    "X05-question.mp3": {
+      "textHash": "6f94022dad9a70e6932a83fdc46393f89b447613803cc40454658d35bb2ababc",
+      "recipeHash": "e64ab2ff282e50abb6e5029895327822e5b53c824efee1944ac88917c202e14f",
+      "sha256": "185e41df74d0d011b7af5635930f1cf4f420e2b9d72e305fcfebabbefb0d524a",
+      "bytes": 122876
+    },
+    "X06-explanation.mp3": {
+      "textHash": "b161128fafc5d079cc3400dce295098b1189fab6fda876569b4a091dc7cd91fd",
+      "recipeHash": "4e12bcef7a887e5aa04d41438f08052cc80e0b1c3f1887b5d3eef570426245bd",
+      "sha256": "c5e96cb7b68cc8a4e0e2ebcfc058e27841162bfea98f46f3f72fffecb04c6172",
+      "bytes": 63692
+    },
+    "X06-question.mp3": {
+      "textHash": "9bc75262c07a8f5bf7b190c8cf15a5ef0a877955c2874306b2578ca548ae3cbd",
+      "recipeHash": "e12f33a5a298edeb829245d8314a2926091d2b4e151e416ea45c31624a2be703",
+      "sha256": "29f9d64fed7ca25ed3932c1d26a3e1257a72db253cd135d0b8bba641d676b1e2",
+      "bytes": 143900
+    },
+    "X07-explanation.mp3": {
+      "textHash": "ab44c40dac2a117b98839ad4b956de3c0aedfbc449bee428eb959a6e4a125f5c",
+      "recipeHash": "1689c1f2f503d27f89f2758bb78b379d949d33f159bcba4b088694254c633e7d",
+      "sha256": "801bfb044729f30c61e92faed612dcaeec09a5a121dcf4037b0cb30d0924f8ea",
+      "bytes": 86300
+    },
+    "X07-question.mp3": {
+      "textHash": "93ecfc91b0bad48afa32fa9899d27b0dc5c9e1376004219ccacde9ee92e1cdd3",
+      "recipeHash": "67d4f51c194c7a725a63bf9d5beebe57d22667ef6abc7122d7e2884b677fb8d4",
+      "sha256": "78aa269817258b4d321c392024b570963d00c612af60bc07c2c4c1409f2ad002",
+      "bytes": 181916
+    },
+    "X08-explanation.mp3": {
+      "textHash": "30527aea63ec4f2aad245921142c59f0e11babcd087dc859bec5bb84f5446b26",
+      "recipeHash": "9e5491ddb3466e29c7e6d7eded3c502fe89d3b38218700d9af160955b3217201",
+      "sha256": "66ec17a76c11179be02672571968f3bc178b28bdcbcd9114c11a7d9a8ce447b0",
+      "bytes": 69164
+    },
+    "X08-question.mp3": {
+      "textHash": "7faff8e43501cbd6377cabdeefa0999505cb147e5e6e9dd8952781187292d6ea",
+      "recipeHash": "73b5988cab4bb7d4377a84e37eb2bc2677169c12c6b8a6fe9064ab20015e1a27",
+      "sha256": "44d196a50f1d6d20478d0f8ac66e04d8aa4653a5e933bc20e535c2aefdd476eb",
+      "bytes": 151964
+    },
+    "X09-explanation.mp3": {
+      "textHash": "8f24bfbb0938da41d74ce68189271bfb76e5072671472b890d918de3d20be799",
+      "recipeHash": "1acdd37bccbfc98878e98f2823afd20ea2afc2f74ed6f8c5183328db5cb86301",
+      "sha256": "4e952e10d0292b5945d2ef34d6aef7c4dbd5e068dd7827734d52eb2f86c6259c",
+      "bytes": 85004
+    },
+    "X09-question.mp3": {
+      "textHash": "023092ae61e15d937516985a31707ad5295c241437616c018483349f0d1e6798",
+      "recipeHash": "b9d2431c48623efab840925f085706002ea598874b4ead1fa53b93db960d551f",
+      "sha256": "ac02f11160b74c1035b3b8c753cbd681b0cdc7669277090a287d4a969a7f5a65",
+      "bytes": 163484
+    },
+    "X10-explanation.mp3": {
+      "textHash": "156b1b209919e6edd9551e054dce49fb57100640234b65aac7092267ee8b7dc8",
+      "recipeHash": "0c17236cc80fb27b750b547db825f2a498c541068b35e22cfce27f679fece98a",
+      "sha256": "20db35828b308ef1368e2b5ccbef5c973045f95a863753f05b6c817a1f6822e3",
+      "bytes": 70028
+    },
+    "X10-question.mp3": {
+      "textHash": "5797635cc28a254501046cb361e1a2dc960f45b081092afa1da7094f63c9cc2d",
+      "recipeHash": "618631fa5022424a654d35005427ab1f03561380ee42fad78e66cbf4c86cefa7",
+      "sha256": "b7df9074abdcab10ad3ceab3920aec3ce74d36bb239acd0842591152ff854c65",
+      "bytes": 145628
+    },
+    "X11-explanation.mp3": {
+      "textHash": "83fdc6bfe61ab96e9672591f83015b956f1dac4845294749dc061b02630d5064",
+      "recipeHash": "5acca2e860429b280df89dfbf7162f7a21e267e9b19209ca2d2bc024e9d3ada6",
+      "sha256": "9af55fced1032a0e63fe1780343bbdb7449bd02f422040318a13f33e1f547d84",
+      "bytes": 93500
+    },
+    "X11-question.mp3": {
+      "textHash": "0c83b4a9ff814803be407e7f6e456920a1e0bb330e8f58d6b0a98a7f138cb9b6",
+      "recipeHash": "55b100e9c72e4523a162c077b42e8a8f84333e60d4978dd4755c0308e4093f47",
+      "sha256": "d312f61ffc44346f7aadb2400824a57a45c1a9f370fd2e9c44915458077b2ae0",
+      "bytes": 197324
+    },
+    "X12-explanation.mp3": {
+      "textHash": "41b9505490d7fe9007add9035766ce1d62b703a89a98ae753317ff9d7f299bf8",
+      "recipeHash": "abab49ef69e71f8a92294426d827b4acc135b55856cf265594df0d1f0c8a986e",
+      "sha256": "45f0209fac389d3533abff05fc370b1e35a3a47cd7b9c49551e5419d329c4c00",
+      "bytes": 84860
+    },
+    "X12-question.mp3": {
+      "textHash": "4e0b51c112729e13d977c7b7eda7940252a7e88a2c76bbd08a3ba98e49d2113a",
+      "recipeHash": "79cfc8313dc1abe678f4b8d1f23c769c7bcd8102363feae3edc05c7f33eb5490",
+      "sha256": "a325c696a36e317fae1f8c6b4c7f30f79924a9d9a7b10d07352b855fdbcbae3b",
+      "bytes": 166940
+    },
+    "X13-explanation.mp3": {
+      "textHash": "02da66c108680706f6ba972ae3691a6d50465243b7a32e313db837273b5623e0",
+      "recipeHash": "0ab4a1292229e5b5f1b385fb002b20ce5b46a4d76a3e06e98ac019c1f566c0aa",
+      "sha256": "608df5c14013259e293976b2055bd47ed4a2db0dac905a679a7ba537b4b5f191",
+      "bytes": 90620
+    },
+    "X13-question.mp3": {
+      "textHash": "10ab41e0f8bb72db64d272507802cc90445be1a5fc108ed604854fab20d2ca7b",
+      "recipeHash": "5d9f95c107ac62ce5c97b1d87d787a7d429bb03b0a60079bb142be3229244745",
+      "sha256": "058f1101ecd2c5030541f4e1943ce0f0719c6b10f2c361f059b0d0ee1df36600",
+      "bytes": 186380
+    },
+    "X14-explanation.mp3": {
+      "textHash": "eb306b89e2e0cf4dc52c0bfec47aee8a76b2edce5a2693dd905b2782b078b179",
+      "recipeHash": "3062a114efee7a2eb2b6d56d14a3e19576ac199c3d698585189a4c4ba175805d",
+      "sha256": "41e68a32e3c210ae2dde39f5d221d35df6130d3c28f12eefa7e1c2bbafb5db6d",
+      "bytes": 85148
+    },
+    "X14-question.mp3": {
+      "textHash": "a09015f9933099e12c62431b38d21c87df9bfdaea78824c933b540e6b3aa16f4",
+      "recipeHash": "db77d8cbb55d384750b7d71d178859158f1ca46a935513665a5ff182b2ac9c95",
+      "sha256": "d8e0cb6eec2752b8fbeb06308c3232e49d3c8580bfca856dd6d3862fc30a5ca8",
+      "bytes": 183212
+    },
+    "X15-explanation.mp3": {
+      "textHash": "3dacbcbe85a18630fdc24fea227333013f3e872ed8569ac055cd65425ef950ab",
+      "recipeHash": "ead42ccbcc20955cacda92b1ef839a1862c017cb8cb2569751bfb9d69a6b62c2",
+      "sha256": "d7cccb5575ff33654c62d9477a52d467507721430755565ca5c4b0a4f709b366",
+      "bytes": 74348
+    },
+    "X15-question.mp3": {
+      "textHash": "5cc04fe5014cce8027b51d11e99bf0c430560e362e54a4c5c6068a7dc65fa94c",
+      "recipeHash": "f66755b7884c5cb7460f5507dbd068fdc470ab5adab2dcc72da4683aee4df72f",
+      "sha256": "2b9397cf6ba3a7bcfacb2cc9a42f81f031c10f7ce908abc84156759e49ad3ef4",
+      "bytes": 168380
+    },
+    "X16-explanation.mp3": {
+      "textHash": "ca80b2f71f619220a507d0ed6022bfb93312697647ec983d150c5b4195c3814c",
+      "recipeHash": "ade93259d9cde51d8168fd81d7d9a7564b41f516540f62e904d827abdfc4b7b2",
+      "sha256": "141ac4f548f9e944a3addae186475ed470a27b7e31e133cda054753de72358b9",
+      "bytes": 67724
+    },
+    "X16-question.mp3": {
+      "textHash": "478dc5a49f0fe75983cbdd1cec539fd0e411cb27a02074c90b62084fe6c2ad49",
+      "recipeHash": "47dc6e567f32a1c8eae35c75a925cbfb9d012eb491709da6beada06bee99a323",
+      "sha256": "e7a9f8639d445b8d32cb2bf5e05723eeae46a94f03c06c8bb84280b1196b13a3",
+      "bytes": 142748
+    },
+    "X17-explanation.mp3": {
+      "textHash": "5722d85d2d065eceeb3f111471432d5720ed1367e41f218b3778b03c6d7b71d7",
+      "recipeHash": "d80be9b737ea581b6db3006f4f2c868d6c5cec74a7c8417da1f83b0fe4a98c55",
+      "sha256": "77716e09e4f5ae3ea9236a77174389846b5d9f8935f48acdd01d3636f1dba5f0",
+      "bytes": 73340
+    },
+    "X17-question.mp3": {
+      "textHash": "57b953c7e732803c6f76d1c14456eba14297ebbd31406a68f1f7947c5a971119",
+      "recipeHash": "98124896e3133a627a05e702d32fe2d5d3730d9deefa409c0531eba2d155f53a",
+      "sha256": "caaf607710ac916f18c9f1d2ae928a0a678649d8679e59cb277202bd4c601e5b",
+      "bytes": 157004
+    },
+    "X18-explanation.mp3": {
+      "textHash": "329a0f7e2ac6b1184de919560f5fbf0e2b7b31c9a9ba24dde556d54c125713fb",
+      "recipeHash": "ccbc3d62a413cbded77498b37481ae5fd6f2053e4220ab14ab227db89be7b58e",
+      "sha256": "4912b3c5fb27e1fd7abe88109ce600a9dc2fc3e8713d1610dc788813638d9ee7",
+      "bytes": 99836
+    },
+    "X18-question.mp3": {
+      "textHash": "fa3376100858ad09e2484746b203d7363a6e4f0b4b4aa44e2753cb48d7276bca",
+      "recipeHash": "55326144226b7f923c1bafe08d340e3bdd430d5518ce3ecdc8a1a07b1582a65c",
+      "sha256": "c3ed056afda276247dd6968dd923dc7aeff9aa625fb1860da7e8df7124de8800",
+      "bytes": 196748
+    },
+    "X19-explanation.mp3": {
+      "textHash": "1bdad25566aacfaf961836303621ff7714045aea59ea10e38a67455ab9e35693",
+      "recipeHash": "7923ccb78eec8db6e238c09ccb1c46492c7ef712df72a0e916ed6e01149fe0a3",
+      "sha256": "ac8020ca928594e2644cfeb40adeeb1e7181a0941efbf1aea0b3560fd6d003ab",
+      "bytes": 106748
+    },
+    "X19-question.mp3": {
+      "textHash": "6c1aec6b15615a64ed01a880c1e5e29745a616fcf96baea581f2e129beb507fc",
+      "recipeHash": "17ef9d22653f728d8445877d78565c58d40535c4178a23743b0d6224feed20e8",
+      "sha256": "93dfd7529032a4bd8c59c057d7db51f71e7a7d4d618770332d067e833e35d461",
+      "bytes": 204236
+    },
+    "X20-explanation.mp3": {
+      "textHash": "d5262367cde2d98fb3182da8045dc4c7688961d86c714e53271a6ab697a51b95",
+      "recipeHash": "0ef0becd4e81fbf90e8ca8752e58e6953ecd63c4be38b50a6542499d47a67fae",
+      "sha256": "a4fac7b6fd56ccca292b96d3d24ac154a64dd2063ba552ac8b65bf8209b9cacb",
+      "bytes": 98828
+    },
+    "X20-question.mp3": {
+      "textHash": "bbc927d41f86180a7846aa59058d81fbefa0f7300e127f75f8e6345c23b7bc04",
+      "recipeHash": "a81339b2444b0feeb0eba18fe87785f56f9deb1cf39623dafe5e749c41248724",
+      "sha256": "079c94182644fde018cd2e5d908cd84b8ce47ec9bdc7858da50c4ea2fb657f41",
+      "bytes": 172268
+    },
+    "X21-explanation.mp3": {
+      "textHash": "7f802e916a1a6da1731d70b238f4acaf8a5b4b7bae4b51d31dc80cd2878e85de",
+      "recipeHash": "c3d8dfaf2053d7d2b5de0b1fb1c9549100b55aca27024a016c13a3fc093b28b8",
+      "sha256": "4dc842ace6541b47a61fa7111ce2cef70622e83fca1023f50356b0b006bdf0f2",
+      "bytes": 68444
+    },
+    "X21-question.mp3": {
+      "textHash": "424fecdf33988864f27b43a70588366fd6e275aa08b9e0af7b12009b7989cff2",
+      "recipeHash": "b8c256adfc896e6015c2405df5bf91eda949a1bac4bbab4ce91458a2c2c28697",
+      "sha256": "56e9d9c28f6c6b5d9131a4706e2168c4da164c07d3120c63c90bee3b666f23f7",
+      "bytes": 154556
+    },
+    "X22-explanation.mp3": {
+      "textHash": "1f93c756beb62eeac8e480781f916663f705fa0a8de5068548013a0b1a549b5e",
+      "recipeHash": "aaa2c2345e8d8917e6b422d9e390fedc36b7c039deeb0977b2cb5f13c0181aaf",
+      "sha256": "82b3a6f3c94190d12af8c2852ffef909ebd85d934678f5ae9fcf856193b5b166",
+      "bytes": 82556
+    },
+    "X22-question.mp3": {
+      "textHash": "fe9ef24dcaa92a527b265b488e2988b810f54151ed6ac409689dac61c5af254d",
+      "recipeHash": "0f7eea5a18cfc0a3113aa6cb667884aa948225be2796381a410d0ffc508b9426",
+      "sha256": "8e5fa5a0b1ec5035302d52134e2504e502b61eaf455a6f8b08eeddf7a4bc2a76",
+      "bytes": 141452
+    },
+    "X23-explanation.mp3": {
+      "textHash": "b78dc03441a6d3ac3ae8dbe40d06b7ca50f40a23c20f4a20d01284c681ee2c1f",
+      "recipeHash": "4fc0ff334f262cd4f2ca266b98ffcf60a7fb2f149c1569c89516caaa591ecec8",
+      "sha256": "433169e706545126966c5bf369a0443cdbf24c7396be72f2808b152f0a06ba45",
+      "bytes": 67004
+    },
+    "X23-question.mp3": {
+      "textHash": "b28425f37398b7a8d970273425508923f53e8c41fc14e6d177e1c339040a7c19",
+      "recipeHash": "2affd098d348334ba987b13373c33b5ea677d134b401d270d3816d4b18e58c94",
+      "sha256": "ca99ce923cbbf385c80ff5ed9991a4828f7d5e4bfe9c140c072115874fdc2b99",
+      "bytes": 145628
+    },
+    "X24-explanation.mp3": {
+      "textHash": "95cde5484a08eead06068f754f0fc6601bf3af5ab5ea288b6796e3213f473918",
+      "recipeHash": "d48a2b7226e659c8b8a3418e04af30a53cd17d5c60173e5208c5d534290211b0",
+      "sha256": "be44f0128dbb5754484df515579b23a7d0f2bc1e03acca85bf5684693089da37",
+      "bytes": 68156
+    },
+    "X24-question.mp3": {
+      "textHash": "48d932a1e7d4f72ad01e5a1fcbb3720465a04a7270ea442056b8931a3e4fec34",
+      "recipeHash": "980edefa053be5207bafb6878656c0fa08837185ebacc13f9482b8a1b00ed629",
+      "sha256": "39a938e50eb80985da103503e7db45c0bdfb86ec045255c7f1649f174c8874c0",
+      "bytes": 148940
+    },
+    "X25-explanation.mp3": {
+      "textHash": "16a02945fc7ce3601b318f53322c73978d3fd39be55f8d9be207119ace5750aa",
+      "recipeHash": "95a3c0eb559f89dcba5f2b42a70ceeccddc2ef1c342d89f6500b27c4f36c94c0",
+      "sha256": "007e1bab4a2686f3146452229cfb48e35c879c75172dbb7db5dc964a804e42d6",
+      "bytes": 92924
+    },
+    "X25-question.mp3": {
+      "textHash": "2cf632d35cd549a6f33371f92a3fdabe7d94c60243f67eb8764620580d5982aa",
+      "recipeHash": "bf7d55fc6dccbe00fdd4e6d183a21efc14b824cb6637f3f2d595dfcad84da6c4",
+      "sha256": "2562059f5a7e2446aa59f761fab94b196cdd42b8678ab9f5f07919f1d0085d0c",
+      "bytes": 188684
+    },
+    "X26-explanation.mp3": {
+      "textHash": "e17cb2ef2ea351cb2d8138d52c2bd6627f4e60f329efec3537f3036973ff746c",
+      "recipeHash": "e94901b9d503b0fd67809c3caeda6c88c91d016442f7831bef594e1464d988cb",
+      "sha256": "16bcae480d82caa290aa6113d7b67acbb414fc30da7884be0a3d0925d91a5897",
+      "bytes": 71900
+    },
+    "X26-question.mp3": {
+      "textHash": "2a6b85347541b7e463214e1f8abee6d90141d4868edb24f3d2f30bc557dce535",
+      "recipeHash": "51ae97c15aba17ce2a373ad8832ccc5a3d8afa1a8b721bea88467b6433eea8ae",
+      "sha256": "adae83ce7f6d70dc0e25d833527c53beeaf87091f6ee1ffac814dae096986aef",
+      "bytes": 151964
+    },
+    "X27-explanation.mp3": {
+      "textHash": "1470d1c0d284326074bc0ae555b8808a00677ce89faddbe81c6491bb24f5ea9c",
+      "recipeHash": "232ab45691c05d8a102dc18be3e32ee418b2df36f8a5bd673c004d4514b90c73",
+      "sha256": "3c6698d05e897d05b79d3cca94f6712407d67d10922f54be9c815056048d01ba",
+      "bytes": 72044
+    },
+    "X27-question.mp3": {
+      "textHash": "ac400cc5ddee8fb2e97c829024d39dd7029d70b56e7f310fe7a846f066a168be",
+      "recipeHash": "10f8e8a1bd919295da457e152f9916b8d2671dc00da815a8a2c963eb6be0bd48",
+      "sha256": "5b6f26a9357b9fe6f62a166a43c3374157732916bda469e24a29d503abb5ff37",
+      "bytes": 144332
+    },
+    "X28-explanation.mp3": {
+      "textHash": "adb362a9ef233f1cf1bd706950caddeb5a3d26b73ae79587a09af4d83ff76b32",
+      "recipeHash": "8c27fa2205c90247f882cc44a2a3ff7345006c4468d049124a438b727bb620c8",
+      "sha256": "1a3f8ea12081a4b12d4c19d07b80b6279eb7b27dc75a76b7f408c5abc8c9faa5",
+      "bytes": 62540
+    },
+    "X28-question.mp3": {
+      "textHash": "edf4a48b2dba45ce0ec98ebae02df1c189fbfcace65909ac94cb7af1aee560ca",
+      "recipeHash": "24b2a9097f4f7358764dee54e51ec2f414d887f01443d50a77fa0b201be47327",
+      "sha256": "2cd363e9b2295e5190156a0e26e54e800286b7ca06376f30b18667a8ae48146b",
+      "bytes": 149228
+    },
+    "X29-explanation.mp3": {
+      "textHash": "baf7d044cbb3c4e12adfa4633925b78b670a95097992288088c72dc3648d9c55",
+      "recipeHash": "4d6b4ec4648beae4768a4e3a71f501f4b201328099fb748b847693463bda6aff",
+      "sha256": "fb928144f507e52dadf5df9ce3be633da0fb4528c0a5fcbdb88ddf0b2c5c88a1",
+      "bytes": 86732
+    },
+    "X29-question.mp3": {
+      "textHash": "da7e4d3365c716f95b76e94709de8c217c862404edab1a6d8bd5b03fd8ffe9ee",
+      "recipeHash": "10f83729fb6eb55a7bbbce02f9afab5040a856cf98d740c13bf50750e431907d",
+      "sha256": "59b71f511297b0c8662d37573304982aa83a0453a002029f179831f0f88190d5",
+      "bytes": 217916
+    },
+    "X30-explanation.mp3": {
+      "textHash": "282b18864af8feb8a6a26144405baebf208adb019517bf93c5548698346111dd",
+      "recipeHash": "4b4aba5932466db19ea2a293f2eac4233fbb4954f4fe555b43c1ea26a7efdd5e",
+      "sha256": "92effb3de0997a3297213fed5b0ee4328147a182cc9cbefb7287163650ecb298",
+      "bytes": 102860
+    },
+    "X30-question.mp3": {
+      "textHash": "c5de8372d0aa451afb45fd9ae3a1b651296bf535dc4a8e3b5495c16036847b76",
+      "recipeHash": "9129062e82375e7c425500530c22ae77786926138c4e3802fa4987701dd5e26c",
+      "sha256": "f755b7e93ff91c464670cb0b69dcb88cae9f845f77220aaaf76c74ed03c0c6a4",
+      "bytes": 172556
+    },
+    "X31-explanation.mp3": {
+      "textHash": "bf3515f3f833dce1b55fbac5c723861fc7fcd8349d2572dff1ccb215384dfe93",
+      "recipeHash": "824996a3879a719b1f308c474a21fb8dd6a8fb2fb39dfc661f9871c2b27b185e",
+      "sha256": "8c7684764694527903bad0b6dc1579914111f47e9972fa538518132d867d8975",
+      "bytes": 73484
+    },
+    "X31-question.mp3": {
+      "textHash": "9111cd6c963c230446cdb3d2a93baff40a4fc416377fc8b8808cc659e1f8ed8e",
+      "recipeHash": "4d9ec2c48468a3d35c94a03699e364275629fd05343a22d1297de1340f433413",
+      "sha256": "1dbeea62d91acda58cc713dbfd69afcad79521523f27b7715d3065b7057ab483",
+      "bytes": 152684
+    },
+    "X32-explanation.mp3": {
+      "textHash": "a577906af9cd347d79b73e6eab916d560ec5facf18a53def57f7659c5859f383",
+      "recipeHash": "5a7897bd2fa43bdcfcf07788138013d34334b71bcf733144f73c6d566f830fd3",
+      "sha256": "9377afd4e31109f8967664a972bd53d913f4c9d70b80a53d72802fcef7cad365",
+      "bytes": 59084
+    },
+    "X32-question.mp3": {
+      "textHash": "aea44cab94827b51362c86d5eb9668171a4160e76c5efb5b99da630676524551",
+      "recipeHash": "b51216f9e110737c35e08ffa273643e7ba5876db169492e67ca77e4fa3156c77",
+      "sha256": "5a72f29a6a29ad5a453313373dcad601af580c43492ba6cc56f00f7c1f02379d",
+      "bytes": 149516
+    },
+    "X33-explanation.mp3": {
+      "textHash": "93765f5b4ca3ee8ec0fffb10c6d46d732a6dab3367bc28ef34dad42b06cf50d3",
+      "recipeHash": "eef6d2a37fc3a7f4bd311651b5a2ce25515cf6b54366b339545b49fe32ec849f",
+      "sha256": "8ccc2f875f0401ebca93d9bac2c2a151254a533eb73a670de014865d6decad78",
+      "bytes": 67004
+    },
+    "X33-question.mp3": {
+      "textHash": "f11a9b18056ecfc8b9ccdc20f004f7db5660a990698a17a5c262a81422deffaf",
+      "recipeHash": "e16df060791b852adadc378722a360d299693dc8b50c54c028d0ae0f812807b3",
+      "sha256": "bab16da1bd9e25fa4074f23f24bb4555a10ce886c7378664932abddd941d0b7f",
+      "bytes": 154988
+    },
+    "X34-explanation.mp3": {
+      "textHash": "50a694f67d268e4b1a5bbd16f46b082627a440ed5d6e28853d01e1528eecd6ef",
+      "recipeHash": "d0d22fae28d95ddad7c39d4de8595929c2aa0048f2a76764c28d2c44ad36203a",
+      "sha256": "dbe25adcf77c00bc0df4c51559adb82b1a29d6aca578488ca8cd7d7fe361dad8",
+      "bytes": 67580
+    },
+    "X34-question.mp3": {
+      "textHash": "98cce18d5d890103757c780d9fb13fa9332be5564c8c2b5ea69389209673349d",
+      "recipeHash": "cf463dbe274927088f5ab85145ad96c67ab210b1dc5532a7a3a5c01d07978a20",
+      "sha256": "47cec9ec7b56a1ff76ed2e22f65edc8906ec4d8cd031cf5bba71bbf552a78bc6",
+      "bytes": 150236
+    },
+    "X35-explanation.mp3": {
+      "textHash": "224e177584da25c627ac44448fb9f6e4aa54e8cb9cadb7c06457542cea08ca48",
+      "recipeHash": "fe9d1a1aaeb9fb6e34cde7e3f7d2b251097e7d5e6a3254b879dda14e392f88fe",
+      "sha256": "6c9812a41a32723e8e28081204b66d67a75997c99093db201cbde0cf7a8eaf7a",
+      "bytes": 66572
+    },
+    "X35-question.mp3": {
+      "textHash": "6502a97539ef4629c37109c2221dd5ecbfd2d1b84ecf1544adb108dc3da986c8",
+      "recipeHash": "f6e7331c0e5029ed7254f0ca0431b8f39487a68007da1e614151d9f15a8e1f14",
+      "sha256": "4bd6184a44c368fa784a2169d9f9024a9acd854ed654b5af49ca77630489b5a4",
+      "bytes": 175724
+    },
+    "X36-explanation.mp3": {
+      "textHash": "736941907ff122c36fbc7507a8eb9b7c7e71181b9156961062f72e1a271c5d50",
+      "recipeHash": "f717ea859a4430d85ea01f162a3d92abe610cc7a6754ec901fdde7f09125cab0",
+      "sha256": "31a1d6ddc46bae2ba6443a81371757867d72b3865ddd774ea072de45bc5585e1",
+      "bytes": 70028
+    },
+    "X36-question.mp3": {
+      "textHash": "ca1c77efdd2f98f5f1af5a5df8b89869a431a2b1f19d0e870eff77da16b276d7",
+      "recipeHash": "2b58045a832352dcf88b47e24f6845ad3f73f44584b7a7e77143b138f17d89a7",
+      "sha256": "bdebda201e656a2349a61d11b023228efd5ae417554a8c61cc4647aaa14d2f08",
+      "bytes": 150236
+    },
+    "X37-explanation.mp3": {
+      "textHash": "a06fa9e80331d0ebae461f41063f2718797d113d14d34e8defe83b16fc935a74",
+      "recipeHash": "ab6c1d9125305316faf34fe7cd92a92ed5efbb392fbcab68f0fd76b2daff5ccc",
+      "sha256": "7c7bd0ab64242f7a8c63a4b4b57662a81c456a3802885e94cdcd5b3ac5d4ff47",
+      "bytes": 91916
+    },
+    "X37-question.mp3": {
+      "textHash": "ec438ccca109978927c4aeaed52e0eab31e484778f8692edb251416fa5f6639c",
+      "recipeHash": "bf3eec52f25fa1d12e1d2325a6d76a3455c2043991b4576a1e1408c69f68403c",
+      "sha256": "cfe567f7c703dfedc4978ed959d2576e83af13bb13f2fac6240d8f3b3ee46fcc",
+      "bytes": 169820
+    },
+    "X38-explanation.mp3": {
+      "textHash": "f2d79600e0afdf616f44bac8c535868be30121ec9529346dfb15ed8c6175a9a2",
+      "recipeHash": "6144b0073dc7ca18e47db39bf343ce87d8e3a279c7e6567ee07d968277f31cd1",
+      "sha256": "73616268875c976b4d84ef533bf6142c9b5b539d2e83408e3130a12d1e94ee46",
+      "bytes": 75932
+    },
+    "X38-question.mp3": {
+      "textHash": "f0ccd0d66a01676345ce72934c005c1edb9516a55f458b5bf0d2ae2aef726a82",
+      "recipeHash": "abe1d546e4f3d82fd7e3bf819cb7c16e43f78f5c68b8d1424301e5eaf1f0d4bd",
+      "sha256": "d798fd30d63ca80e89dc0587169d9d8202a008f0a86953c581284bd524f585ce",
+      "bytes": 165356
+    },
+    "X39-explanation.mp3": {
+      "textHash": "ec9da95d32cdcf27938800bd30894b52ac978eb1c9a19ee2bf7ca884b346735b",
+      "recipeHash": "e85463f2b6ded08c357ba34d0c2438aedd18e9638f91150fb6a2d44714be1a85",
+      "sha256": "ce2a7e22c8f4d19ee586148c9d8d146abea7cb1e6a73286a0790f1fff1452091",
+      "bytes": 84428
+    },
+    "X39-question.mp3": {
+      "textHash": "7cd67064882770676e039ced6e11723f109e92da065054323ffd348ab5d8ea2a",
+      "recipeHash": "2157df01fa5debb0dfb6b6b87b6a934cef0f897e781cf99c07d08e1f19bd5eeb",
+      "sha256": "25057ba06ecf4e38a350e6ec1cfaeb67894ab71bf791e0e3cc476f233e8df095",
+      "bytes": 179324
+    },
+    "X40-explanation.mp3": {
+      "textHash": "d2253bbaa2014bd8bf950c27a1949621ba89f92c52c583eb28c58f3cd1c4ce63",
+      "recipeHash": "753edc306cf2d0879cf6d21ac461ba73221618c43653fc2c1fdddcf76fc550d7",
+      "sha256": "0f652d767673993d80057dbb6f4d62b5536cadd66637e6f0f48183058ecfee0f",
+      "bytes": 85004
+    },
+    "X40-question.mp3": {
+      "textHash": "2f06b4e9433d794215b1339b84130f3aa5a44df246d2c7f86e37d289948df900",
+      "recipeHash": "ae443cee3ca1167e05dc8c5bc7025a55ff80443e107225f3f619860666cbee20",
+      "sha256": "20069fe93102d500bfbbc1fd126db85fff292cd3a534a5e2fd87233fcc1da85f",
+      "bytes": 186092
+    },
+    "X41-explanation.mp3": {
+      "textHash": "6107b8e6332360f120eca147ca405c52e40d545095ea87df61521e4e86d6d72e",
+      "recipeHash": "8e5134a176b898f9f61bff47b32ce279fb7afaa4347a823ba6241a05c925cd9d",
+      "sha256": "6f87cddd11cac9e098c20154362ee8a271eb8b3cc72258a182ce771a7a6a6556",
+      "bytes": 81404
+    },
+    "X41-question.mp3": {
+      "textHash": "d5974df2bfcd836096e299dbaf0cdf519e1f2adb68032b5689d795af6b191d60",
+      "recipeHash": "a226e81cd8332539ffa6ae7d8757e4a9cb1488a6c6a6e7b7f19c168e586a57ff",
+      "sha256": "696d3c410364cc6432b4d730d7438d42ccd5a1973a386e7b7157669909cb85a2",
+      "bytes": 162908
+    },
+    "X42-explanation.mp3": {
+      "textHash": "01b166cdfe9eaa63b23f8bac5b4ea6523659069a9f1bdae7e7eb2003154f6d0e",
+      "recipeHash": "91384b03b202bed503f2382e71051155e24fe640ffe21467fefdeecb20eeb790",
+      "sha256": "2bc1f4701b6b22ac405e6ba9c94fc8bf1a11a61bc612abca97df88abdeebc600",
+      "bytes": 79676
+    },
+    "X42-question.mp3": {
+      "textHash": "f3ee2e2d7a9388244dbc773a72f8c2d7b339e4d1946420eaa4307a34a6fc2a3a",
+      "recipeHash": "8b319d28b4c5e303570a2d6f441f1950604c96d0fe87444f608f36a3edb98085",
+      "sha256": "8c1c8f07ff440a6072593dce6a01318967481ba932a642bc9c88da53df459528",
+      "bytes": 175724
+    },
+    "X43-explanation.mp3": {
+      "textHash": "e8b76c820af8b16fd0ac367a9365e3c9c53342da23999196d64b583b1301b53e",
+      "recipeHash": "dcf92ff40301689f115352620fbe9e649550bc136b6fae314dff735ab867e400",
+      "sha256": "0e3f7fda37e3d3a288056f5892f30708741c06a50197c1f96428d983d8bf929d",
+      "bytes": 58940
+    },
+    "X43-question.mp3": {
+      "textHash": "977769e203589cca7bfc7026fb5d83c0936411ee4a7a1d5672762db6168fb8db",
+      "recipeHash": "e04e7a9bff8ed5267d0e0fc92df03a4d1d48cdcf1c9e7e73737ceba283134845",
+      "sha256": "cf7e2addcf114c90d1b2021ae6069bfbd897501e0748a447a55c201b8030452f",
+      "bytes": 145484
+    },
+    "X44-explanation.mp3": {
+      "textHash": "7b61a3eb00f1afc0f398158036f1f3c3bdeb20c310cc51f0f61aa371504ccd91",
+      "recipeHash": "e654e9427b89150345ce9acde40a6e39101054185e04ffda96c4fd8e5a1a8281",
+      "sha256": "91e60438c529d0fee07322de939e67e256f13ee50cf529e21465f0b411956dc9",
+      "bytes": 73484
+    },
+    "X44-question.mp3": {
+      "textHash": "350edd1a8c91aa1a2a52aedb467dc5c7ed5203e983125a541cad2fabe3d0c766",
+      "recipeHash": "efd1e2e9dca26ff4430d6ebff4889af4371da0d6e6baba9c50462277cb646da5",
+      "sha256": "96d4b163217e7bc2685fb8251d1dc6f8842f7331014b845d44504d732eab1295",
+      "bytes": 153404
+    }
+  }
+}

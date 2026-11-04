@@ -109,3 +109,5 @@ a{color:inherit}
 .voice-rewind{min-height:34px;padding:0 8px;font-size:12px}
 .voice-settings label{display:flex;align-items:center;gap:8px}.voice-settings select{border:1px solid #e5d8e8;border-radius:7px;background:white;color:#624d69;padding:5px 8px;font:inherit}
 .voice-error{margin:8px 0 0;color:#a94153;font-size:12px;line-height:1.6}
+.voice-heading{flex-wrap:wrap}.voice-heading span:last-child{flex-basis:100%;margin-left:0}.voice-heading strong{flex:1}
+.top-actions{flex-shrink:0}.top-actions button{white-space:nowrap}.voice-error p{margin:4px 0 8px}

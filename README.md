@@ -44,3 +44,4 @@ npm run build
 ## 公開
 
 `main` への push 時に GitHub Actions がテスト・ビルドし、GitHub Pages へ配信します。GitHub の Settings → Pages で Source を GitHub Actions に設定します。
+GitHub Actions の `Generate voice assets` でも録音できます。全分割の成果物を `gh run download RUN_ID --pattern 'voice-*' --dir recordings` で取得し、`node scripts/import-voice.mjs recordings` と `npm test` を実行してください。取り込みは全問題の録音・文章・音声データのハッシュが揃った場合のみ行います。

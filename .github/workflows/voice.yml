@@ -39,9 +39,10 @@ jobs:
         env:
           VOICE_SHARD: ${{ matrix.shard }}
           VOICE_SHARDS: 8
+          VOICE_OUTPUT_DIR: ${{ runner.temp }}/voice-output
         run: node scripts/generate-voice.mjs
       - uses: actions/upload-artifact@v4
         with:
           name: voice-${{ matrix.shard }}
-          path: public/voice
+          path: ${{ runner.temp }}/voice-output
           retention-days: 7
