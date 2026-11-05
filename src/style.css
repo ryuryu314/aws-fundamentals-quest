@@ -111,3 +111,53 @@ a{color:inherit}
 .voice-error{margin:8px 0 0;color:#a94153;font-size:12px;line-height:1.6}
 .voice-heading{flex-wrap:wrap}.voice-heading span:last-child{flex-basis:100%;margin-left:0}.voice-heading strong{flex:1}
 .top-actions{flex-shrink:0}.top-actions button{white-space:nowrap}.voice-error p{margin:4px 0 8px}
+
+/* ドパミン仕様（簿記ドパミンクエスト風）: 答え合わせ・コンボ・レベル・解答を見る・結果スロット */
+.level-strip{display:grid;grid-template-columns:1.3fr 1fr auto;gap:22px;align-items:center;margin:22px 0 0}
+.level-strip p{margin:6px 0 0;color:#8a7d92;font-size:12px}
+.lv-number{font-size:40px;font-weight:900;color:#9c65aa;line-height:1.2}
+.lv-number small{font-size:13px;color:#a79aab;margin-right:4px}
+.lv-number span{font-size:14px;color:#7752a2;margin-left:8px;letter-spacing:.04em}
+.lv-goal strong{display:block;font-size:26px;color:#c47b40}
+.lv-goal strong small{font-size:13px;color:#a79aab}
+.goal-bar .progress-fill{background:linear-gradient(90deg,#f4b35d,#ec6aa6)}
+.lv-mini{display:flex;gap:18px}
+.lv-mini div{text-align:center}
+.lv-mini b{display:block;font-size:24px;color:#5b426e}
+.lv-mini span{font-size:11px;color:#9a8ea0}
+.exam-header-right{display:flex;align-items:center;gap:10px}
+.combo-badge{display:inline-flex;align-items:baseline;gap:5px;font-size:10px;font-weight:800;letter-spacing:.12em;color:#9a8ea0;padding:7px 12px;border-radius:99px;background:#fff;border:1px solid #efe6f1}
+.combo-badge b{font-size:21px;color:#8054a0;font-style:italic;letter-spacing:0}
+.combo-badge.hot{background:linear-gradient(135deg,#ff5fa2,#8054a0);color:#fff;border-color:transparent;box-shadow:0 0 18px rgba(255,61,154,.45)}
+.combo-badge.hot b{color:#fff}
+.option.right{border-color:#5bc08f;background:#effaf4}
+.option.wrong{border-color:#f2b46b;background:#fff8ef}
+.option.dim{opacity:.55}
+.option:disabled{opacity:1;cursor:default}
+.option.dim:disabled{opacity:.55}
+.option.right .option-check{color:#1d9a5a;font-size:11px;font-weight:900}
+.question-panel .voice-player{margin:0 0 16px}
+.voice-credit{margin-left:auto;font-size:10px;font-weight:800;color:#8b7896;letter-spacing:.02em}
+.wide-action{flex:1 1 220px}
+.peek-button{color:#7752a2;background:#f3ecfa}
+.peek-tag{font-size:10px;font-weight:900;color:#7c4dff;background:#f1ecff;border-radius:6px;padding:4px 8px;white-space:nowrap}
+.muted-note{color:#8a7d92;font-size:12px}
+.dopa-feedback .explanation{margin-top:10px}
+.nav-number.judged-ok{background:#ffeef6;border-color:#ff9cc4;color:#d63c84;font-size:13px}
+.nav-number.judged-ng{background:#eef8ff;border-color:#9fd3f5;color:#2a86c4;font-size:13px}
+.lamp-count{font-family:ui-monospace,Menlo,Consolas,monospace;background:#120a2a;color:#9bf6c0;border-radius:8px;padding:6px 10px;font-size:12px;letter-spacing:.06em;margin:0 0 10px;display:inline-block}
+.lamp-count b{color:#ff5f5f;font-size:16px;text-shadow:0 0 6px rgba(255,95,95,.7)}
+.result-hero{position:relative;overflow:hidden}
+.score-box{position:relative;max-width:420px;margin:0 auto}
+.result-stats{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;max-width:520px;margin:18px auto}
+.result-stats div{background:#fff;border-radius:14px;padding:14px 6px;border:1px solid #f0e6f1}
+.result-stats strong{display:block;font-size:24px;color:#5b426e}
+.result-stats span{font-size:11px;color:#9a8ea0}
+.lv-row{max-width:420px;margin:12px auto 4px;text-align:left;font-weight:900;color:#5b426e;font-size:14px}
+.lv-row .progress{margin-top:8px}
+.result-actions{display:flex;flex-wrap:wrap;gap:10px;justify-content:center;margin-top:18px}
+.peek-modal{text-align:left}
+.peek-modal .modal-actions{margin-top:16px}
+body.dopa-fever .question-panel{border-color:#ff9cc4;box-shadow:0 0 0 3px rgba(255,61,154,.14),var(--shadow)}
+@media(max-width:760px){.level-strip{grid-template-columns:1fr;gap:14px}.lv-mini{justify-content:flex-start}}
+@media(max-width:520px){.hide-sm{display:none}.hide-xs{display:none}.exam-header-right{gap:6px}.combo-badge{padding:6px 9px}.combo-badge b{font-size:17px}}
